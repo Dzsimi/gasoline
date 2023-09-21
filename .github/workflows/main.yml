@@ -1,0 +1,5 @@
+name: R Scheduled Script
+
+on:
+  schedule:
+  - cron: "0 11 * * *"
