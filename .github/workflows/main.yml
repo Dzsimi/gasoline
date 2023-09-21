@@ -11,8 +11,8 @@ jobs:
 
     # Load repo and install R
     steps:
-    - uses: actions/checkout@main
-    - uses: r-lib/actions/setup-r@main
+    - uses: actions/checkout@v1
+    - uses: r-lib/actions/setup-r@v1
 
     # Set up R
     - name: Install packages
