@@ -1,4 +1,3 @@
-
 # 95-octane prices
 
 rm(list=ls())
