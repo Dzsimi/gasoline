@@ -2,7 +2,7 @@ name: R Scheduled Script
 
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '15 * * * *'
 
 permissions:
   contents: write
