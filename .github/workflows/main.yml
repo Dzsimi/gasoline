@@ -24,7 +24,7 @@ jobs:
         R -e 'install.packages("openxlsx")'
     # Run R script
     - name: Scrape
-      run: Rscript scrape.R
+      run: Rscript scrape.Rmd
 
   # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
