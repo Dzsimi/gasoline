@@ -216,7 +216,7 @@ fuel$petrol <- "95 octane petrol"
 current_date <- Sys.Date()
 data_frame_name <- paste("95_octane_petrol_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -419,7 +419,7 @@ fuel$petrol <- "98 octane petrol"
 current_date <- Sys.Date()
 data_frame_name <- paste("98_octane_petrol_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -622,7 +622,7 @@ fuel$petrol <- "100 octane petrol"
 current_date <- Sys.Date()
 data_frame_name <- paste("100_octane_petrol_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -825,7 +825,7 @@ fuel$petrol <- "premium octane petrol"
 current_date <- Sys.Date()
 data_frame_name <- paste("premium_octane_petrol_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -1028,7 +1028,7 @@ fuel$petrol <- "diesel"
 current_date <- Sys.Date()
 data_frame_name <- paste("diesel_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -1231,7 +1231,7 @@ fuel$petrol <- "premium diesel"
 current_date <- Sys.Date()
 data_frame_name <- paste("premium_diesel_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
@@ -1434,7 +1434,7 @@ fuel$petrol <- "lpg"
 current_date <- Sys.Date()
 data_frame_name <- paste("lpg_", current_date, sep = "")
 assign(data_frame_name, fuel)
-file_name <- paste(data_frame_name, ".csv", sep = "")
+file_name <- paste('data/',data_frame_name, ".csv", sep = "")
 write.csv(get(data_frame_name), file = file_name, fileEncoding = "UTF-8", row.names = FALSE)
 ```
 
