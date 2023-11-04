@@ -5,7 +5,28 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 import pandas as pd
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.utils import ChromeType
+
+#Adjusting the code according to GitHub webdriver requirements.
+chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
+chrome_options = Options()
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
+for option in options:
+    chrome_options.add_argument(option)
+
 
 ########## Setting up the scraping environment ##########
 
@@ -20,7 +41,7 @@ for i in index:
         url = "https://holtankoljak.hu/station_result#tartalom"
 
         # Initialize a web driver (replace 'chromedriver.exe' with the path to your WebDriver)
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
         # Open the website in the browser
         driver.get(url)
 
