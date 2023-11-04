@@ -322,11 +322,14 @@ for i in index:
 
         folder_path = 'D:/BCE/[!!!]Mesterszak/scraping petrol prices/data'
         file_name = fuel_name_to_save + today + '.csv'
-        #full_file_path = f"{folder_path}/{file_name}"
+        # Including folder_path when code run outside of GitHub action
+        full_file_path = f"{}/{file_name}"
 
         # Save the DataFrame to a CSV file in the specified folder
-        df.to_csv(file_name, index=False) 
-
+        df.to_csv(full_file_path, index=False) 
+        
+        
+        
         # Close the WebDriver
         driver.quit()
 
