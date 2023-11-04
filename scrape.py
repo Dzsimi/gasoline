@@ -30,8 +30,7 @@ for option in options:
 
 ########## Setting up the scraping environment ##########
 
-index = [3]
-#index = [1, 2, 3, 4, 6, 7, 8]
+index = [1, 2, 3, 4, 6, 7, 8]
 
 for i in index:
 
