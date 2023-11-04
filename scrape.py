@@ -325,7 +325,7 @@ for i in index:
         # Using full_file_path when code run outside of GitHub action
         #full_file_path = f"{folder_path}/{file_name}"
         # Using github_path when code run inside GitHub action
-        github_path = f"{file_name}"
+        github_path = f"{'data/'}{file_name}"
         
         # Save the DataFrame to a CSV file in the specified folder
         df.to_csv(github_path, index=False) 
@@ -335,6 +335,4 @@ for i in index:
 
     except Exception as e:
         print("An exception occurred:", e)
-
-    if len(df) < 10:
-        raise ValueError("DataTable length is less than 10")
+        
