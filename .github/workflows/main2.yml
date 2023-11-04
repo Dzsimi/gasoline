@@ -25,7 +25,7 @@ jobs:
       #selenium.webdriver.common.by
       #selenium.webdriver.support.ui
       #webdriver_manager.chrome
-      #from webdriver_manager.utils
+      #webdriver_manager.core.os_manager
 
     - name: Run Python script
       run: python scrape.py
