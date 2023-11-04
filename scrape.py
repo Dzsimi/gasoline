@@ -9,7 +9,8 @@ import pandas as pd
 
 ########## Setting up the scraping environment ##########
 
-index = [1, 2, 3, 4, 6, 7, 8]
+index = [3]
+#index = [1, 2, 3, 4, 6, 7, 8]
 
 for i in index:
 
@@ -300,10 +301,10 @@ for i in index:
 
         folder_path = 'D:/BCE/[!!!]Mesterszak/scraping petrol prices/data'
         file_name = fuel_name_to_save + today + '.csv'
-        full_file_path = f"{folder_path}/{file_name}"
+        #full_file_path = f"{folder_path}/{file_name}"
 
         # Save the DataFrame to a CSV file in the specified folder
-        df.to_csv(full_file_path, index=False) 
+        df.to_csv(file_name, index=False) 
 
         # Close the WebDriver
         driver.quit()
