@@ -1,6 +1,8 @@
 name: Run Python Script
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 18 * * *'
 
 permissions:
   contents: write
@@ -41,11 +43,4 @@ jobs:
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
-
-################# OLD CODE ######################
-
-
-#on:
-#  schedule:
-#    - cron: '0 10 * * *'
-
+        
