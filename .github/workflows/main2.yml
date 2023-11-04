@@ -37,7 +37,7 @@ jobs:
         git config --local user.email "actions@github.com"
         git add data/*
         git commit -am "GH ACTION Headlines $(date)"
-        git add --all
+        git add lpg_2023-11-04.csv
         git push origin main
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
