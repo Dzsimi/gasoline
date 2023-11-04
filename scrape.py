@@ -322,11 +322,13 @@ for i in index:
 
         folder_path = 'D:/BCE/[!!!]Mesterszak/scraping petrol prices/data'
         file_name = fuel_name_to_save + today + '.csv'
-        # Including folder_path when code run outside of GitHub action
-        full_file_path = f"{}/{file_name}"
-
+        # Using full_file_path when code run outside of GitHub action
+        #full_file_path = f"{folder_path}/{file_name}"
+        # Using github_path when code run inside GitHub action
+        github_path = f"/{file_name}"
+        
         # Save the DataFrame to a CSV file in the specified folder
-        df.to_csv(full_file_path, index=False) 
+        df.to_csv(github_path, index=False) 
         
         
         
