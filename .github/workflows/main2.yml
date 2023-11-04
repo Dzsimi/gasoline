@@ -19,8 +19,11 @@ jobs:
         python-version: 3.8  # Choosen Python version
 
     - name: Install dependencies
-      run: python -m pip install datetime bs4 selenium selenium.webdriver.common.keys selenium.webdriver.common.by selenium.webdriver.support.ui pandas # Replace with your own dependency installation command
+      run: python -m pip install datetime bs4 selenium pandas # Replace with your own dependency installation command
       #time
+      #selenium.webdriver.common.keys
+      #selenium.webdriver.common.by
+      #selenium.webdriver.support.ui
 
     #- name: Run Python script
     #  run: python scrape.py
