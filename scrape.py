@@ -330,10 +330,11 @@ for i in index:
         # Save the DataFrame to a CSV file in the specified folder
         df.to_csv(github_path, index=False) 
         
-        
-        
         # Close the WebDriver
         driver.quit()
 
     except Exception as e:
         print("An exception occurred:", e)
+
+    if len(df) < 10:
+        raise ValueError("DataTable length is less than 10")
