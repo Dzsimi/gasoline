@@ -25,8 +25,8 @@ jobs:
       #selenium.webdriver.common.by
       #selenium.webdriver.support.ui
 
-    #- name: Run Python script
-    #  run: python scrape.py
+    - name: Run Python script
+      run: python scrape.py
 
     # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
