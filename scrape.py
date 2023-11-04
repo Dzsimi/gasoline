@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import pandas as pd
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.utils import ChromeType
+from webdriver_manager.core.os_manager import ChromeType
 
 #Adjusting the code according to GitHub webdriver requirements.
 chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
