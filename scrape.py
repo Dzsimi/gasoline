@@ -337,4 +337,4 @@ if len(df) < 2:
     raise ValueError("DataTable length is less than 10")
 
 # Close the WebDriver
-driver.quit()
+#driver.quit()
