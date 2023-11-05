@@ -333,8 +333,8 @@ for i in index:
     except Exception as e:
         print("An exception occurred:", e)
         
-if len(df) < 2:
-    raise ValueError("DataTable length is less than 10")
+#if len(df) < 2:
+#    raise ValueError("DataTable length is less than 10")
 
 # Close the WebDriver
-#driver.quit()
+driver.quit()
