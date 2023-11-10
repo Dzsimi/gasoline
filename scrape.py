@@ -40,7 +40,7 @@ for i in index:
         # Specify the URL of the website
         url = "https://holtankoljak.hu/station_result#tartalom"
 
-        # Initialize a web driver (replace 'chromedriver.exe' with the path to your WebDriver)
+        # Initialize a web driver
         driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
         # Open the website in the browser
         driver.get(url)
@@ -143,8 +143,11 @@ for i in index:
             middle_string = "\n\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t"
             end_position = text_new.index(middle_string)
             location_new = text_new[:end_position]
-            price_new = float(text_new[end_position + len(middle_string):])
+            date_new = text_new[(end_position + len(middle_string)):(end_position + len(middle_string) + 10)]
+            price_new = float(text_new[end_position + len(middle_string) + 16:])
+            #Appending new values to the list
             location_list.append(location_new)
+            date_list.append(date_new)
             price_list.append(price_new)
 
             #Cutting the new global string.
@@ -191,8 +194,11 @@ for i in index:
         middle_string = "\n\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t"
         end_position = text_new.index(middle_string)
         location_new = text_new[:end_position]
-        price_new = float(text_new[end_position + len(middle_string):])
+        date_new = text_new[(end_position + len(middle_string)):(end_position + len(middle_string) + 10)]
+        price_new = float(text_new[end_position + len(middle_string) + 16:])
+        #Appending new values to the list
         location_list.append(location_new)
+        date_list.append(date_new)
         price_list.append(price_new)
 
         #Cutting the new global string.
@@ -212,6 +218,7 @@ for i in index:
         counter += 1
         #counter should be equal to num_of_res
         #location_list contains the station locations in order
+        #date_list contains the fuel prices in order
         #price_list contains the fuel prices in order
 
         #Collecting the brand elements in order.
@@ -294,7 +301,7 @@ for i in index:
 
 
         # Create a dataframe from the lists
-        data = {'brand': brands, 'price': price_list, 'location': location_list, 'date': current_date_list, 'petrol': fuel_list}
+        data = {'brand': brands, 'price': price_list, 'location': location_list, 'date': date_list, 'petrol': fuel_list}
         df = pd.DataFrame(data)
 
         # Print the resulting DataFrame
