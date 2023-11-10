@@ -12,7 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 
 index = [1, 2, 3, 4, 6, 7, 8]
-#index = [2]
+index = [1]
 
 for i in index:
 
