@@ -12,7 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 
 index = [1, 2, 3, 4, 6, 7, 8]
-index = [1]
+#index = [1]
 
 for i in index:
 
@@ -112,6 +112,7 @@ for i in index:
         counter = 0
 
         location_list = []
+        date_list = []
         price_list = []
 
 
