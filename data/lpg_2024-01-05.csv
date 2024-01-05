@@ -1,0 +1,330 @@
+brand,price,location,date,petrol
+Mol,324.0,"Lakitelek, Szikra u. 206/C",2024-01-05,lpg
+Mol,324.0,"Barcs, Erkel Ferenc utca hrsz.1931  ",2024-01-05,lpg
+Mol,324.0,"Szigetvár, József Attila u. 66.  ",2024-01-05,lpg
+Tele-Tank,318.0,"Nagyatád, Berzencei út 0220/33. hrsz.",2023-05-19,lpg
+Mol,324.0,"Szalánta, 58. Főút",2024-01-05,lpg
+Mol,324.0,"Szentlőrinc, Törökföld u.",2024-01-05,lpg
+Mol,324.0,"Letenye, Bajcsy-Zsilinszki Endre u.  38",2024-01-05,lpg
+Mol,324.0,"Szentlászló, 066/2 hrsz.  ",2024-01-05,lpg
+Mol,324.0,"Pécs, 6.sz.fkl. út (Cserkút)  ",2024-01-05,lpg
+Omv,305.9,"Pécs, Siklósi út 45.",2023-09-24,lpg
+Mol,314.0,"Pécs, Verseny utca 1.",2023-10-06,lpg
+Mobil Petrol,309.9,"Kozármisleny, 57-es és 578-as főút körforgalmában",2023-10-11,lpg
+Mol,324.0,"Nagykanizsa, Camping  ",2024-01-05,lpg
+Mobil Petrol,309.9,"Nagykanizsa, 7. főút és 74. sz. főút körforgalom",2023-10-11,lpg
+Omv,305.9,"Nagykanizsa, Virág Benedek u. 4.",2023-09-24,lpg
+Mol,324.0,"Nagykanizsa, Elkerülő út - Garai út 17.",2024-01-05,lpg
+Mol,324.0,"Pécs, Pécsváradi út 12.",2024-01-05,lpg
+Mol,324.0,"Lenti, Széchenyi tér 3.  ",2024-01-05,lpg
+Mol,324.0,"Pécs, Komlói út  ",2024-01-05,lpg
+Orlen,326.0,"Galambok, 7-es főút 196km 024/5 hrsz",2023-06-14,lpg
+Tele-Tank,314.0,"Magyarszék, külterület 0134/3 hrsz (66-os út mellett)",2023-06-30,lpg
+Mol,324.0,"Pécsvárad, 6.sz.fkl.út  ",2024-01-05,lpg
+Mol,324.0,"Kaposvár, Kanizsai u. külterület 031/7",2024-01-05,lpg
+Tele-Tank,314.0,"Kaposvár, Jutai út 26/a.",2023-12-28,lpg
+Mol,324.0,"Kaposvár, Guba Sándor út 3628/28 HRSZ",2024-01-05,lpg
+Mol,324.0,"Kaposvár, Füredi út 180.  ",2024-01-05,lpg
+Mol,324.0,"Kaposszekcső, 611-es főút 0103/27 hrsz. (Petőfi u.)",2024-01-05,lpg
+Mol,324.0,"Kapospula, Rákóczi út 10.  ",2024-01-05,lpg
+Avia,314.0,"Dombóvár, Kórház utca 1.",2023-09-08,lpg
+Mol,324.0,"Dombóvár, Köztársaság u. 27. (Tüskevár)  ",2024-01-05,lpg
+Mol,324.0,"Szentgotthárd, Rábafüzesi út 1.  ",2024-01-05,lpg
+Tele-Tank,318.0,"Balatonszentgyörgy, Berzsenyi D. u. 54",2023-09-08,lpg
+Mol,324.0,"Szentgotthárd, 8 - as út",2024-01-05,lpg
+Shell,400.9,"Balatonkeresztúr, M7 Balatonkeresztúr - dél",2023-01-02,lpg
+Mol,324.0,"Baja, Dózsa Gy. u. 97.",2024-01-05,lpg
+Mol Partner+,315.0,"Zalaegerszeg, Teskándi út 38.",2024-01-05,lpg
+Mol,324.0,"Zalaegerszeg, Balatoni út I.  ",2024-01-05,lpg
+Mobil Petrol,309.9,"Baja, külterület 0402/355 hrsz.",2023-10-11,lpg
+Orlen,336.0,"Zalaegerszeg, Kaszaházi út 96.",2023-05-10,lpg
+Mobil Petrol,309.9,"Alsópáhok, Hévizi út 14.",2023-10-11,lpg
+Mobil Petrol,309.9,"Keszthely, Hévizi út",2023-10-11,lpg
+Mol,324.0,"Szekszárd, Csatári u.",2024-01-05,lpg
+Mol,324.0,"Hévíz, Hévízi út  ",2024-01-05,lpg
+Mol,324.0,"Bácsalmás, Backnang út 7.  ",2024-01-05,lpg
+Mol,324.0,"Csávoly, Dózsa Gy. u. 50.",2024-01-05,lpg
+Mobil Gáz 98 Kft.,309.0,"Keszthely, Várvölgyi út",2023-09-08,lpg
+AUTÓS-PORTA Kft.,314.0,"Nagykónyi, Vásártér",2023-09-27,lpg
+Mol Partner+,324.0,"Dusnok, Bercsényi u. 50. (51. sz. főút)",2024-01-05,lpg
+Mol,324.0,"Balatonlelle, Rákóczi Ferenc u. 1.  ",2024-01-05,lpg
+Omv,305.9,"Balatonlelle, 7.sz. főút 138. km",2023-09-24,lpg
+Mol,344.0,"Balatonlelle, M7 II. (bejövő)",2024-01-05,lpg
+Mol,344.0,"Balatonlelle, M7 I. (kimenő)",2024-01-05,lpg
+Omv,365.9,"Tompa, Külterület 0356/46",2023-09-24,lpg
+Omv,305.9,"Révfűlöp, Badacsonyi út 71. számú főút",2023-09-24,lpg
+Mol,324.0,"Tapolca, Kossuth út  ",2024-01-05,lpg
+Mol,324.0,"Tamási, Szabadság u. 90.  ",2024-01-05,lpg
+Edo,309.9,"Ásotthalom, 3/13 hrsz.",2023-11-17,lpg
+Present Plusz 2 Bt. ,350.0,"Nagydorog, Kajdacsi u. 21/a",2023-08-02,lpg
+Omv,315.9,"Kalocsa, Bátyai út 83.",2023-11-21,lpg
+Omv,339.9,"Röszke, M5 autópálya 0112/25 hrsz 172 km",2023-09-26,lpg
+Omv,339.9,"Röszke, 0112/60 hrsz. 172 km M5 Nyugat",2023-09-26,lpg
+Mol,324.0,"Kalocsa, Negyvennyolcas út  52.",2024-01-05,lpg
+Mol,324.0,"Szombathely, Zanati út  56",2024-01-05,lpg
+Mol,324.0,"Szombathely, Zanati út II. 29.",2024-01-05,lpg
+Concordia Szombathely Kft.,313.0,"Szombathely, Söptei út 78.",2023-06-27,lpg
+Mol,324.0,"Szombathely, Viktória út 1.",2024-01-05,lpg
+Mol,324.0,"Zamárdi, Endrédi út  ",2024-01-05,lpg
+Mol,324.0,"Paks, 6.sz.fkl. út bal  ",2024-01-05,lpg
+Omv,305.9,"Paks, 6. sz. főút 110 km.",2023-09-24,lpg
+Orlen,326.0,"Siófok, Töreki út 1.",2023-06-14,lpg
+Edo,304.9,"Kiskunhalas, Malom sor 4.",2023-11-17,lpg
+Mol,324.0,"Kecel, Császártöltési u. 50.  ",2024-01-05,lpg
+Mol,324.0,"Kiskunhalas, Majsai út 18.  ",2024-01-05,lpg
+Mol,324.0,"Simontornya, Belterület 1326/3 hrsz",2024-01-05,lpg
+Mol,324.0,"Szeged, Makai út  ",2024-01-05,lpg
+Mol,324.0,"Siófok, Wesselényi u. 106.",2024-01-05,lpg
+Edo,309.9,"Szeged, Szőregi út 39-41.",2023-11-17,lpg
+Mol,344.0,"Siófok, M7 autópálya 94. km (DÉL) Sóstói pihenő II.",2024-01-05,lpg
+Mol,344.0,"Siófok, M7 autópálya 94. km (ÉSZAK) Sóstói pihenő I.",2024-01-05,lpg
+Oil!,309.9,"Szeged, Fonógyári út 18.",2023-11-28,lpg
+Edo,309.9,"Szeged, Dorozsmai út 100.",2023-11-17,lpg
+Mol,324.0,"Szeged, Dorozsmai út 16.",2024-01-05,lpg
+Omv,319.9,"Szeged, Etelka sor 13.",2024-01-05,lpg
+Mol,324.0,"Szeged, Makkosházi krt. 6.",2024-01-05,lpg
+Mol,324.0,"Ajka, Fő út /Aranyvölgyi utca/  ",2024-01-05,lpg
+Mobil Petrol,309.9,"Ajka, Fő út",2023-10-11,lpg
+Mol,344.0,"Szatymaz, M5 autópálya 151 km jobb oldal",2024-01-05,lpg
+Mol,344.0,"Szatymaz, M5 autópálya 151 km bal oldal",2024-01-05,lpg
+Orlen,336.0,"Szeged, Algyői út",2023-05-10,lpg
+Orlen,326.0,"Soltvadkert, Halasi út 1.",2023-06-14,lpg
+Mol,324.0,"Algyő,  Szeged 47.sz.fkl.út ( Algyő Pf.:11 )  ",2024-01-05,lpg
+Mobil Petrol,309.9,"Balatonvilágos, hrsz 054/256.",2023-10-11,lpg
+Oil!,339.9,"Maroslele, M43",2023-11-10,lpg
+Edo,309.9,"Makó, Justh Gyula utca 67.",2023-11-17,lpg
+Mol,324.0,"Sárbogárd, Köztársaság út 147.  ",2024-01-05,lpg
+Mol,324.0,"Veszprém, Almádi u. 17/1",2024-01-05,lpg
+Mol,324.0,"Balatonvilágos, Balatonakarattya 71.sz. föút  ",2024-01-05,lpg
+Mol,324.0,"Veszprém, Pápai út 42.",2024-01-05,lpg
+Mol,324.0,"Veszprém, Budapesti u.  70.",2024-01-05,lpg
+Omv,305.9,"Veszprém, Aradi vértanúk útja",2023-09-24,lpg
+Mol,324.0,"Bócsa, III. körzet 1.",2024-01-05,lpg
+Mol,344.0,"Fűle, M7 Autópálya 83 km (Észak)(Lepsény)",2024-01-05,lpg
+Mobil Petrol,309.9,"Hódmezővásárhely, Kopáncs 47-es számú főút",2023-10-11,lpg
+Mol,324.0,"Solt, Vecsei u. 52.  ",2024-01-05,lpg
+Oil!,319.9,"Berhida, 1784 hrsz",2024-01-01,lpg
+Mobil Petrol,309.9,"Hódmezővásárhely, Szántó Kovács János utca 151.",2023-10-11,lpg
+Mol,324.0,"Hódmezővásárhely, Szántó Kovács János út 170.",2024-01-05,lpg
+Orlen,326.0,"Hódmezővásárhely, Kutasi út 61.",2023-06-14,lpg
+Mobil Petrol,333.9,"Petőfiszállás, M5 ap. 122 km JOBB OLDAL",2023-10-11,lpg
+Mobil Petrol,333.9,"Petőfiszállás, M5 ap. 122 km BAL OLDAL",2023-10-11,lpg
+Mobil Petrol,309.9,"Dunavecse, Fő út 120. 510 számú fő út",2023-10-11,lpg
+Omv,317.9,"Mindszent, Napkelet utca 3/b",2024-01-05,lpg
+Mol,324.0,"Nagycenk, 84.sz.fkl. út  ",2024-01-05,lpg
+Mol,324.0,"Várpalota, Veszprémi út 160. 8-as főút",2024-01-05,lpg
+Omv,305.9,"Dunaújváros, Dózsa György út",2023-09-24,lpg
+Mol,324.0,"Várpalota, 8.sz.fkl. út II. (bal) ",2024-01-05,lpg
+Mol,324.0,"Mezőhegyes, Kinizsi tér 1.",2024-01-05,lpg
+Mol,324.0,"Fűlöpszállás, Külterület  52. számú főút Kurjantópuszta",2024-01-05,lpg
+Mol,324.0,"Szabadszállás, Petőfi Sándor út 19.  ",2024-01-05,lpg
+Omv,329.0,"Kiskunfélegyháza, X. körzet, tanya 49",2023-12-09,lpg
+Mol,324.0,"Jakabszállás, II. kerület 19.  ",2024-01-05,lpg
+Mol,324.0,"Székesfehérvár, Balatoni út",2024-01-05,lpg
+Mol,324.0,"Dunaújváros, 6.sz.fkl.út   67 km",2024-01-05,lpg
+Omv,305.9,"Sopron, Lackner Kristóf u. 29.",2023-09-24,lpg
+Mol,324.0,"Székesfehérvár, Sárkeresztúri út 8.  ",2024-01-05,lpg
+Mol,324.0,"Kiskunfélegyháza, Csongrádi út 18/A",2024-01-05,lpg
+Mini-Tank Kft.,301.0,"Gátér, Szabadság u. 21.",2023-06-14,lpg
+Mol,324.0,"Sopron, Határátkelő I. (kimenő)  ",2024-01-05,lpg
+Pátka Petrol Kft. ,322.0,"Székesfehérvár, Seregélyesi út 118.",2024-01-05,lpg
+Mol,324.0,"Székesfehérvár, Seregélyesi út 113.",2024-01-05,lpg
+Omv,305.9,"Székesfehérvár, Budai út 169.",2023-09-24,lpg
+Edo,309.9,"Székkutas, Vásárhelyi út 320/3 hrsz.",2023-11-17,lpg
+Mol,324.0,"Székesfehérvár, Szent Flórián krt. 5.",2024-01-05,lpg
+Oil!,477.0,"Tét, Győri u 1845/5 hrsz.",2023-11-10,lpg
+Mol,324.0,"Szentes, Attila út 2.",2024-01-05,lpg
+Mobil Petrol,309.9,"Szentes, Attila út 4. (Attila út - Ipartelepi út körf.)",2023-10-11,lpg
+Mol,324.0,"Adony, 6.sz. fkl. út  ",2024-01-05,lpg
+Mol,324.0,"Csorna, Soproni út  21.",2024-01-05,lpg
+Omv,317.9,"Csongrád, Fő utca 65.",2024-01-05,lpg
+Mol,324.0,"Kecskemét, Izsáki út 67.",2024-01-05,lpg
+Pátka Petrol Kft. ,322.0,"Pátka, Külterület 0190/101 (GP benzinkút)",2024-01-05,lpg
+Mol,324.0,"Orosháza, Kettőssánc tér",2024-01-05,lpg
+Mol,324.0,"Mór, Nemes utca (81-es út)  ",2024-01-05,lpg
+Mol,324.0,"Mór, Nemes u. 24.",2024-01-05,lpg
+Mol,344.0,"Velence, M7. autópálya I.  észak",2024-01-05,lpg
+Orlen,326.0,"Orosháza, Arany J. u. 19.",2023-06-14,lpg
+Mol,324.0,"Kecskemét, Békéscsabai út  ",2024-01-05,lpg
+Mobil Petrol,309.9,"Kecskemét, Hrsz 0674/200 Repülős csomópont",2023-10-11,lpg
+Avia,325.0,"Kápolnásnyék, 7. sz. főút 43. km",2023-09-20,lpg
+Mobil Petrol,309.9,"Nyúl, Kossuth Lajos út (82. sz. főút)",2023-10-11,lpg
+Mol,324.0,"Kiskunlacháza, Hadház u. 2.  ",2024-01-05,lpg
+Mol,324.0,"Lajosmizse, 50.sz.út jobb oldal  ",2024-01-05,lpg
+Omv,339.9,"Győrújbarát, Győr",2023-09-26,lpg
+Omv,339.9,"Vál, M7, Kajászó (Váli Dél)",2023-09-26,lpg
+Omv,339.9,"Vál, M7, Kajászó (Váli Észak)",2023-09-26,lpg
+Mol,344.0,"Győrújbarát, M1 Autópálya 119. km (Arrabóna)",2024-01-05,lpg
+Mol,344.0,"Ercsi, M6 II. (bejövő) (M6 külterület 30 km szelvény)",2024-01-05,lpg
+Mol,344.0,"Ercsi, M6 I. (kimenő) (M6 külterület 30 km szelvény)",2024-01-05,lpg
+Oil!,320.0,"Táborfalva, Kecskeméti út 4/A",2023-12-13,lpg
+Orlen,326.0,"Pér, Fehérvári út 086/14 hrsz",2023-06-14,lpg
+Mol,324.0,"Győr, Szent Imre u. 55.",2024-01-05,lpg
+Orlen,326.0,"Abda, Bécsi út 186.",2023-06-14,lpg
+Mol,324.0,"Kunszentmárton, Szentesi út",2024-01-05,lpg
+Mol,324.0,"Nagykőrös, Téglagyári u. 1/a",2024-01-05,lpg
+Mol,324.0,"Győr, Tatai út",2024-01-05,lpg
+Omv,305.9,"Győr, Ipar út 99.",2023-09-24,lpg
+Mol,324.0,"Oroszlány, Rákóczi Ferenc út 94/a",2024-01-05,lpg
+Mol,324.0,"Győr, Nagymegyeri út",2024-01-05,lpg
+Orlen,354.0,"Tárnok, M7 autópálya 26 km ÉSZAK",2023-12-06,lpg
+Orlen,354.0,"Tárnok, M7 Autópálya 26 km DÉL",2023-12-06,lpg
+Mol,324.0,"Tiszakécske, Szolnoki u.  ",2024-01-05,lpg
+Oil!,301.0,"Dunavarsány, Nagyvarsányi utca 155.",2023-10-03,lpg
+Mol,324.0,"Szigethalom, Petőfi Sándor u.  ",2024-01-05,lpg
+Mol,324.0,"Érd, Ercsi út hrsz. 26297/2",2024-01-05,lpg
+Oil!,477.0,"Bábolna, Ács út 2.",2023-04-05,lpg
+Hungaro-Petrol Kft.,304.0,"Felcsút, Fő út 220.",2023-10-26,lpg
+Mol,344.0,"Mosonmagyaróvár, M1 - M15. autópálya II. (Pf.:109)  ",2024-01-05,lpg
+Mol,344.0,"Mosonmagyaróvár, M1 - M15. autópálya I. (Pf.:109/1)",2024-01-05,lpg
+Avia,295.0,"Érd, Szent László tér 6.",2023-05-28,lpg
+Mol,324.0,"Érd, Budai út II.",2024-01-05,lpg
+Mol,324.0,"Mosonmagyaróvár, Királyhidai út 51.",2024-01-05,lpg
+Mol,324.0,"Érd, Budai út I.",2024-01-05,lpg
+Edo,309.9,"Levél, 611/28 hrsz.",2023-11-17,lpg
+Omv,339.9,"Bábolna, Bábolna - Concó pihenő dél, M1 autópálya 39. kmsz bal",2023-09-26,lpg
+Omv,339.9,"Bábolna, Bábolna - Concó pihenő észak, M1 autópálya 93. kmsz",2023-09-26,lpg
+Mol,324.0,"Szigetszentmiklós, Petőfi Sándor utca 139",2024-01-05,lpg
+Mol,324.0,"Mosonmagyaróvár, Halászi út 0139/3 Hrsz.  ",2024-01-05,lpg
+Edo,309.9,"Szarvas, 01319/2 hrsz. (44.-es számú főút)",2023-11-17,lpg
+Omv,339.9,"Inárcs, M5 autópálya 82. kmsz. bal",2023-09-26,lpg
+Omv,339.9,"Inárcs, M5 autópálya 82. kmsz jobb",2023-09-26,lpg
+Mol,324.0,"Szarvas, Szabadság út 51-53.",2024-01-05,lpg
+Mol,324.0,"Szarvas, Békéscsabai út",2024-01-05,lpg
+Omv,305.9,"Békéscsaba, Szarvasi út 103.",2023-09-24,lpg
+MOBIL-GÁZ Kft.,285.0,"Diósd, Balatoni út 19.",2023-06-25,lpg
+Omv,305.9,"Békéscsaba, Szarvasi út 16-18.",2023-09-24,lpg
+Mol,344.0,"Törökbálint, M0 autópálya 6 km. szelv.( Annahegyi pihenő) dél",2024-01-05,lpg
+Mol,324.0,"Berettyóújfalu, 42-47 főút kereszteződés Honvéd u. 2.",2024-01-05,lpg
+Omv,334.9,"Szigetszentmiklós, M0 19.km",2023-11-04,lpg
+Orlen,336.0,"Tiszaföldvár, Kunszentmártoni út 1.",2023-05-10,lpg
+Omv,339.9,"Törökbálint, M0 körgyűrű 6 km",2023-09-26,lpg
+Mol,324.0,"Békéscsaba, Sportcsarnok",2024-01-05,lpg
+Orlen,326.0,"Csém, 13-as főút",2023-06-14,lpg
+Mol,324.0,"Tatabánya, Győri út  ",2024-01-05,lpg
+MOBIL-GÁZ Kft.,275.0,"Budapest XXI, II. Rákóczi Ferenc út 289-295.",2023-07-07,lpg
+Mol,324.0,"Vértesszőlős, Határ u. 1-3.",2024-01-05,lpg
+Herceg Benzinkút Kft.,298.0,"Herceghalom, Jókai Mór u 2/A",2023-10-06,lpg
+Mol,316.0,"Budapest XXIII, Ócsai u.kimenő (XXIII.) 7.",2024-01-05,lpg
+Mobil Petrol,309.9,"Gyál, M5 Gyál-Alsónémedi lehajtó",2023-10-11,lpg
+Mol,316.0,"Budaörs, METRO  (Keleti utca)",2024-01-05,lpg
+Orlen,354.0,"Zsámbék, M1 autópálya (Dél)",2023-12-06,lpg
+Orlen,354.0,"Zsámbék, M1 autópálya (Észak)",2023-12-06,lpg
+Mol,324.0,"Cegléd, Pesti út 87.",2024-01-05,lpg
+Mol,324.0,"Tata, Vértesszőlősi út (bal oldal)  ",2024-01-05,lpg
+Mol,316.0,"Budaörs, Rubik Ernő u. 3.",2024-01-05,lpg
+Mol,316.0,"Budaörs, Garibaldi u. 2.",2024-01-05,lpg
+Mol,324.0,"Martfű, Földvári út 4.",2024-01-05,lpg
+Mol,316.0,"Budapest XI, Mezőkövesd út 1.",2024-01-05,lpg
+Mol,316.0,"Budapest XXIII, Helsinki u. 108-112.",2024-01-05,lpg
+Mol,324.0,"Sarkad, Vásár tér 1-3",2024-01-05,lpg
+Mol,316.0,"Budapest XXI, Kossuth L. u. 3. (XXI.) ",2024-01-05,lpg
+Omv,305.9,"Budapest XXI, Védgát utca 47.",2023-09-24,lpg
+Mol,316.0,"Budapest XI, Hunyadi János út 2. (XI.)",2024-01-05,lpg
+Mol,324.0,"Budakeszi, Budaörsi u. 2749/8 hrsz.",2024-01-05,lpg
+Mol,316.0,"Budapest XIX, Méta u. - Zádor s.",2024-01-05,lpg
+Omv,305.9,"Budapest XI, Budafoki út 111.",2023-09-24,lpg
+Mol,316.0,"Budapest XXI, Weiss Manfréd út 2.",2024-01-05,lpg
+Mol,316.0,"Budapest XI, Nagyszőlős u. 47-49. (4566/2 hrsz.)",2024-01-05,lpg
+Mol,316.0,"Budapest IX, Gubacsi u. 27. (IX.)",2024-01-05,lpg
+Mol,316.0,"Budapest IX, Napfény u. 26. (IX.)",2024-01-05,lpg
+Mol,324.0,"Vecsés, Fő út 6011/2 hrsz.",2024-01-05,lpg
+Mol,316.0,"Budapest XVIII, Üllői út 661. (XVIII.)",2024-01-05,lpg
+Mol,316.0,"Budapest XIX, Ady Endre út 22-26.",2024-01-05,lpg
+FERZOL 2009 Kft.,286.0,"Budapest X, Maglódi út 12/B",2023-05-19,lpg
+Mol,324.0,"Szolnok, Tószegi út 18/A",2024-01-05,lpg
+Mol,324.0,"Gyomaendrőd, Fő út",2024-01-05,lpg
+Mol,316.0,"Budapest XIV, Vágány u. 21. (XIV.)",2024-01-05,lpg
+Mol,324.0,"Gyömrő, Mendei út  ",2024-01-05,lpg
+Mol,316.0,"Budapest XIV, Csömöri út 27/A",2024-01-05,lpg
+Mol,324.0,"Szolnok, Elkerülő út",2024-01-05,lpg
+Mol,324.0,"Budapest III, Mozaik u. 3.",2024-01-05,lpg
+Mol,324.0,"Budapest III, Gémeskút u. 12.",2024-01-05,lpg
+Mol,316.0,"Budapest XVII, Cinkotai út 30.",2024-01-05,lpg
+Omv,305.9,"Budapest XVII, Cinkotai út 51.",2023-09-24,lpg
+Omv,305.9,"Szolnok, Thököly út 91.",2023-09-24,lpg
+Mol,316.0,"Budapest XVI, Arany J. u. 106. (XVI.)",2024-01-05,lpg
+Mol,324.0,"Piliscsaba, 10-es fő út 1602/13. hrsz. (24. km)",2024-01-05,lpg
+Mol,324.0,"Pilisvörösvár, 10. sz. fkl. út (Hrsz. 0140/31.)",2024-01-05,lpg
+Omv,305.9,"Budapest IV, Váci út 77. - Megyeri út sarok",2023-09-24,lpg
+Mol,316.0,"Budapest IV, Váci út 84-90.",2024-01-05,lpg
+Avia,359.0,"Nagytarcsa, Naplás utca 1. ",2023-10-04,lpg
+Mol,316.0,"Budapest IV, Fóti út 130.",2024-01-05,lpg
+Omv,305.9,"Dorog, Bécsi út -Csolnoki út sarok hrsz.0279/8",2023-09-24,lpg
+Omv,305.9,"Szentendre, 11. sz. főút 17. km",2023-09-24,lpg
+Omv,305.9,"Esztergom, Kertváros, Dobogókői út - Kesztölci út sarok",2023-09-24,lpg
+Mol,324.0,"Fót, Keleti Márton út",2024-01-05,lpg
+Mol,324.0,"Gödöllő, 3. sz. Főút Ipari Park, Pattantyús Ábrahám krt. 4.",2024-01-05,lpg
+Mol,324.0,"Esztergom, Visegrádi út",2024-01-05,lpg
+Mol,324.0,"Fegyvernek, 4.sz. fkl. út",2024-01-05,lpg
+Mol,324.0,"Jászberény, Nagykátai út",2024-01-05,lpg
+Mobil Petrol,309.9,"Bag, M3 autópálya 39. km lehajtó (Ipari Park) 2191",2023-10-11,lpg
+Mol,324.0,"Kisújszállás, Deák Ferenc u. 133.",2024-01-05,lpg
+Gá-Ben-Gáz Kft.,306.0,"Aszód, Pesti út 25.",2023-11-15,lpg
+Mol,324.0,"Aszód, Pesti út 3.  ",2024-01-05,lpg
+Orlen,326.0,"Pusztamonostor, 32-es Főút",2023-06-14,lpg
+Mol,316.0,"Vác, Diadal tér",2024-01-05,lpg
+Avia,449.0,"Aszód, Falujárók útja 44.",2023-10-17,lpg
+Mol,324.0,"Hatvan, Csányi út (Sport u. 1.)",2024-01-05,lpg
+Mol,324.0,"Lőrinci, 21.sz. fkl. út  ",2024-01-05,lpg
+Őrindex Kft.,380.0,"Jászárokszállás, Jászberényi út 3.",2023-06-19,lpg
+Mol,324.0,"Karcag, Madarasi út",2024-01-05,lpg
+Mol,324.0,"Rétság, 2.sz. fkl. út  ",2024-01-05,lpg
+Omv,339.9,"Karácsond, M3, Karácsond Dél",2023-09-26,lpg
+Omv,339.9,"Karácsond, M3, Karácsond Észak",2023-09-26,lpg
+Mobil Petrol,309.9,"Gyöngyös, Budapesti út 3. számú főút",2023-10-11,lpg
+Mol,324.0,"Gyöngyös, Pesti út 67.",2024-01-05,lpg
+Oil!,370.0,"Gyöngyös, Karácsondi út 9.",2023-08-29,lpg
+Avia,304.0,"Gyöngyös, Szurdokpart utca 78.",2023-10-12,lpg
+Mol,324.0,"Berettyóújfalu, 42.sz. fkl. út Földesi út 49.",2024-01-05,lpg
+Mol,344.0,"Kál, Rekettyés pihenő M3 II. dél ",2024-01-05,lpg
+Mol,344.0,"Kál, Rekettyés pihenő M3. I észak ",2024-01-05,lpg
+Mol,324.0,"Pásztó, Fő út  ",2024-01-05,lpg
+Mol,324.0,"Tiszafűred, Ady Endre út",2024-01-05,lpg
+Mol,324.0,"Fűzesabony, Maklári út",2024-01-05,lpg
+Mol,324.0,"Hajdúszoboszló, Debreceni út",2024-01-05,lpg
+Orlen,326.0,"Mezőkövesd, Külterület 0269/4",2023-06-14,lpg
+Mol,324.0,"Salgótarján, Budapesti u. 21. sz. fkl. Út 57 km",2024-01-05,lpg
+Mol,324.0,"Eger, Mátyás király út",2024-01-05,lpg
+Omv,305.9,"Eger, Mátyás király út 134.",2023-09-24,lpg
+Mol,324.0,"Eger, Kistályai út 1./a",2024-01-05,lpg
+Mol,324.0,"Eger, Rákóczi út",2024-01-05,lpg
+Mol,324.0,"Debrecen, István út 147.",2024-01-05,lpg
+Mol,324.0,"Debrecen, Mikepércsi út II. (bejövő)",2024-01-05,lpg
+Mol,324.0,"Debrecen, Mikepércsi út I. (kimenő)",2024-01-05,lpg
+TÁRS-95. Kft. ,310.0,"Debrecen, Diószegi utca 32-34.",2023-11-21,lpg
+Mol,324.0,"Debrecen, Kassai út 27.",2024-01-05,lpg
+Omv,305.9,"Debrecen, Kassai út 92.",2023-11-10,lpg
+Mol,324.0,"Debrecen, Sámsoni út",2024-01-05,lpg
+Mol,324.0,"Hajdúböszörmény, Debreceni út 1.",2024-01-05,lpg
+Mol,344.0,"Görbeháza, M3 II dél (182,5-ös km kő, hrsz: 0437/6)",2024-01-05,lpg
+Mol,344.0,"Görbeháza, M3 I. észak (182,5-ös km kő, hrsz: 0437/8)",2024-01-05,lpg
+Mobil Petrol,309.9,"Polgár, M3 autópálya csomópont",2023-10-11,lpg
+Mol,324.0,"Tiszaújváros, 35.sz.fkl. út",2024-01-05,lpg
+Mol,324.0,"Téglás, 4.sz. fkl. út",2024-01-05,lpg
+Orlen,326.0,"Kistokaj, Pesti u. 2.",2023-06-14,lpg
+Mol,324.0,"Ózd, Vasvár út (25 -ös út)",2024-01-05,lpg
+Mol,324.0,"Miskolc, Pesti út II. (kijövő)",2024-01-05,lpg
+Vizler-Petrol Kft.,329.0,"Hajdúnánás, Vihar Béla utca 2.",2024-01-05,lpg
+Avia,305.0,"Nyíradony, Debreceni út 100.",2023-10-31,lpg
+Mol,324.0,"Hajdúnánás, Tiszavasvári út",2024-01-05,lpg
+Mol,324.0,"Miskolc, Újgyőri főtér 3.",2024-01-05,lpg
+Mobil Petrol,309.9,"Miskolc, József Attila út 47.",2023-10-11,lpg
+Mol,324.0,"Felsőzsolca, 3. sz. főút hrsz. 2034/14",2024-01-05,lpg
+Mol,324.0,"Nagykálló, Korányi Frigyes út  104.",2024-01-05,lpg
+Mol Partner+,309.0,"Nyíregyháza, Tiszavasvári út, Zomboribokor",2023-08-31,lpg
+Oplus Kft.,309.0,"Nyíregyháza, Lujza u. 9.",2023-08-31,lpg
+Omv,305.9,"Nyíregyháza, Kert u. 47.",2023-09-24,lpg
+Mol,324.0,"Nyíregyháza, Vasgyár u. 18.",2024-01-05,lpg
+Mol,324.0,"Nyíregyháza, László u.",2024-01-05,lpg
+Mol,324.0,"Nyíregyháza, Tokaji út ( Repülötér )",2024-01-05,lpg
+Mol,324.0,"Nyíregyháza, Pazonyi út",2024-01-05,lpg
+Mol,324.0,"Szerencs, 37.sz. fkl. út",2024-01-05,lpg
+GROVI Kft.,329.0,"Nyírbátor, Szentvér út 41.",2024-01-05,lpg
+Avia,344.0,"Forró, Fő utca 133.",2024-01-02,lpg
+Mol,324.0,"Encs, 3.sz.fkl.út",2024-01-05,lpg
+Mol,324.0,"Mátészalka, Vásár tér 5.",2024-01-05,lpg
+Mol,324.0,"Sárospatak, Wesselényi Miklós út",2024-01-05,lpg
+Mol,324.0,"Vásárosnamény, Nyíregyházi út 1.",2024-01-05,lpg
+GROVI Kft.,329.0,"Vásárosnamény, Ilki út 1.",2024-01-05,lpg
+Mol,324.0,"Sátoraljaújhely, Várhegy utca",2024-01-05,lpg
