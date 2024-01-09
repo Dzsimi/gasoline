@@ -1,0 +1,995 @@
+brand,price,location,date,petrol
+Mol,608.0,"Lakitelek, Szikra u. 206/C",2024-01-05,100 octane petrol
+Mol,608.0,"Esztergom, Dorogi út (111.sz.fkl út)",2024-01-05,100 octane petrol
+Mol,608.0,"Barcs, Erkel Ferenc utca hrsz.1931  ",2024-01-05,100 octane petrol
+Mol,608.0,"Vajszló, Széchenyi István út 34.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Harkány, Pécsi út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Siklós, Felszabadulás út 1211/9 hrsz.",2024-01-05,100 octane petrol
+Tele-Tank,603.9,"Nagyharsány, Beremendi út",2024-01-01,100 octane petrol
+Mol,608.0,"Szigetvár, József Attila u. 66.  ",2024-01-05,100 octane petrol
+Shell,633.9,"Szigetvár, József Attila u.",2024-01-01,100 octane petrol
+Mol,608.0,"Villány, Virágosi út hrsz.0102.  ",2024-01-05,100 octane petrol
+Tele-Tank,603.9,"Nagyatád, Berzencei út 0220/33. hrsz.",2024-01-01,100 octane petrol
+Mol,608.0,"Nagyatád, Lábodi út  30.",2024-01-05,100 octane petrol
+Mol,608.0,"Szentlőrinc, Törökföld u.",2024-01-05,100 octane petrol
+Mol,608.0,"Letenye, Bajcsy-Zsilinszki Endre u.  38",2024-01-05,100 octane petrol
+Mol,608.0,"Pécs, Maléter Pál u. Hrsz. 21169",2024-01-05,100 octane petrol
+Mol,608.0,"Pécs, 6.sz.fkl. út (Cserkút)  ",2024-01-05,100 octane petrol
+Omv,604.9,"Pécs, Siklósi út 45.",2024-01-01,100 octane petrol
+Orlen,589.0,"Pécs, Makay",2024-01-01,100 octane petrol
+Orlen,589.0,"Pécs, Megyeri",2024-01-01,100 octane petrol
+Mol,608.0,"Kadarkút, Kaposvári u.  ",2024-01-05,100 octane petrol
+Shell,633.9,"Pécs, Siklósi út 66.",2024-01-01,100 octane petrol
+Mol,608.0,"Pécs, Endresz út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Pécs, Siklósi út 9.",2024-01-05,100 octane petrol
+Mol,608.0,"Bóly, külterület 0184/158 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Pécs, Szigeti út  ",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Kozármisleny, 57-es és 578-as főút körforgalmában",2024-01-01,100 octane petrol
+Mol,608.0,"Nagykanizsa, Camping  ",2024-01-05,100 octane petrol
+Mol,608.0,"Rédics, 86.sz.fkl. út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Pécs, Zsolnay u. 4.",2024-01-01,100 octane petrol
+Mobil Petrol,584.9,"Nagykanizsa, Kalmár utca 5. hrsz: 93/10",2024-01-02,100 octane petrol
+Mobil Petrol,596.9,"Nagykanizsa, 7. főút és 74. sz. főút körforgalom",2024-01-01,100 octane petrol
+Omv,604.9,"Nagykanizsa, Hevesi Sándor u. 5.",2024-01-01,100 octane petrol
+Shell,633.9,"Pécs, Zsolnay V. u. 41-43",2024-01-01,100 octane petrol
+Mol,608.0,"Nagykanizsa, Balatoni út  ",2024-01-05,100 octane petrol
+Omv,604.9,"Pécs, Zsolnay út 50.",2024-01-01,100 octane petrol
+Orlen,559.0,"Nagykanizsa, Magyar u. 118.",2024-01-01,100 octane petrol
+Shell,633.9,"Nagykanizsa, Balatoni út",2024-01-01,100 octane petrol
+Omv,604.9,"Nagykanizsa, Virág Benedek u. 4.",2024-01-01,100 octane petrol
+Mol,608.0,"Nagykanizsa, Elkerülő út - Garai út 17.",2024-01-05,100 octane petrol
+Shell,633.9,"Nagykanizsa, Boszorkány u. 2.",2024-01-01,100 octane petrol
+Mol Partner+,578.9,"Nagykanizsa, Magyar utca 166.",2024-01-05,100 octane petrol
+Shell,633.9,"Pécs, Budai vám 1. (6.sz. főút mellett)",2024-01-01,100 octane petrol
+Mol,608.0,"Pécs, Pécsváradi út 12.",2024-01-05,100 octane petrol
+Mol,608.0,"Lenti, Széchenyi tér 3.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Pécs, Komlói út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Mohács, Eszéki út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Mohács, Pécsi út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Mohács, Újváros, 57. sz. főút (3403/103.hrsz)",2024-01-01,100 octane petrol
+Mol,608.0,"Böhönye, Szabadság u.  ",2024-01-05,100 octane petrol
+Orlen,549.0,"Galambok, 7-es főút 196km 024/5 hrsz",2024-01-01,100 octane petrol
+Mol,658.0,"Zalakomár, 8752 dél - INA benzikút M7",2024-01-05,100 octane petrol
+Mol,658.0,"Zalakomár, 8752 észak - INA benzikút M7",2024-01-05,100 octane petrol
+Tele-Tank,603.9,"Magyarszék, külterület 0134/3 hrsz (66-os út mellett)",2024-01-01,100 octane petrol
+Mol,608.0,"Komló, Feketegyémánt tér  ",2024-01-05,100 octane petrol
+Shell,633.9,"Komló, Kossuth L. u. 54-56.",2024-01-01,100 octane petrol
+Mol,608.0,"Pécsvárad, 6.sz.fkl.út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Sásd, Noszlopy Gáspár u.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Kaposvár, Marhahajtó út Vásár tér",2024-01-05,100 octane petrol
+Omv,604.9,"Kaposvár, Áchim A u.",2024-01-01,100 octane petrol
+Mol,608.0,"Kaposvár, Kanizsai u. külterület 031/7",2024-01-05,100 octane petrol
+Shell,633.9,"Kaposvár, Berzsenyi u.",2024-01-01,100 octane petrol
+Tele-Tank,603.9,"Kaposvár, Jutai út 26/a.",2024-01-01,100 octane petrol
+Mobil Petrol,596.9,"Kaposvár, Árpád út 33-35.",2024-01-01,100 octane petrol
+Mol,608.0,"Kaposvár, Guba Sándor út 3628/28 HRSZ",2024-01-05,100 octane petrol
+Omv,604.9,"Kaposvár, Füredi út (5374/22 hrsz.)",2024-01-01,100 octane petrol
+Mol,608.0,"Kaposvár, Füredi út 180.  ",2024-01-05,100 octane petrol
+Tele-Tank,603.9,"Kaposvár, Toponári út 2.",2024-01-01,100 octane petrol
+Mol,608.0,"Kaposszekcső, 611-es főút 0103/27 hrsz. (Petőfi u.)",2024-01-05,100 octane petrol
+Avia,615.0,"Őriszentpéter, Városszer 22.",2024-01-02,100 octane petrol
+Mobil Petrol,597.9,"Bátmonostor, Baracskai utca 57. 51. számú főút",2024-01-05,100 octane petrol
+Omv,639.9,"Bátaszék, M6 autópálya 166.km hrsz: 120/118 bal",2024-01-01,100 octane petrol
+Mol,608.0,"Marcali, Noszlopy Gáspár u. 37.  ",2024-01-05,100 octane petrol
+Omv,639.9,"Bátaszék, M6 autópálya 166.km hrsz: 120/118 jobb",2024-01-01,100 octane petrol
+Avia,603.9,"Dombóvár, Kórház utca 1.",2024-01-01,100 octane petrol
+MAKROM-OIL Kft.,634.0,"Mágocs, Vásártér 896/8 hrsz (Ady E u 79/b)",2024-01-04,100 octane petrol
+Green-Way Park Kft. ,636.9,"Mágocs, Béke utca 36.",2024-01-05,100 octane petrol
+Mol,608.0,"Bátaszék, Budai út 114-116.  ",2024-01-05,100 octane petrol
+Shell,633.9,"Dombóvár, Juhász Gyula u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Dombóvár, Köztársaság u. 27. (Tüskevár)  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szentgotthárd, Rábafüzesi út 1.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Bonyhád, Kossuth Lajos u. 79. (Bonyhád elkerülő út)",2024-01-05,100 octane petrol
+Mol,608.0,"Bonyhád, Zrínyi Miklós u. 25.  ",2024-01-05,100 octane petrol
+Tele-Tank,603.9,"Balatonszentgyörgy, Berzsenyi D. u. 54",2024-01-01,100 octane petrol
+Mol,608.0,"Zalaegerszeg, Zrínyi Miklós út 20.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szentgotthárd, 8 - as út",2024-01-05,100 octane petrol
+Omv,596.9,"Zalaegerszeg, Göcseji út 26.",2024-01-01,100 octane petrol
+Shell,633.9,"Baja, Dózsa Gy. út 13.",2024-01-01,100 octane petrol
+Mol,608.0,"Zalaegerszeg, Göcseji u. 37/A",2024-01-05,100 octane petrol
+Mol,608.0,"Baja, Szegedi út  105.",2024-01-05,100 octane petrol
+Shell,660.9,"Balatonkeresztúr, M7 Balatonkeresztúr - dél",2024-01-01,100 octane petrol
+Shell,633.9,"Baja, Dózsa György út 126-130.",2024-01-01,100 octane petrol
+Shell,660.9,"Balatonkeresztúr, M7 Balatonkeresztúr - észak",2024-01-01,100 octane petrol
+Mol,608.0,"Baja, Dózsa Gy. u. 97.",2024-01-05,100 octane petrol
+Mol Partner+,590.0,"Zalaegerszeg, Teskándi út 38.",2024-01-02,100 octane petrol
+Shell,633.9,"Zalaegerszeg, Hock J. u. 100",2024-01-01,100 octane petrol
+Mol,608.0,"Zalaegerszeg, Balatoni út I.  ",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Baja, külterület 0402/355 hrsz.",2024-01-01,100 octane petrol
+Shell,633.9,"Zalaegerszeg, Balatoni út 2735/1 hrsz.",2024-01-01,100 octane petrol
+Mol,608.0,"Balatonkeresztúr, 7.sz.fkl.út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Keszthely, Festetics György u.  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Zalaegerszeg, Kaszaházi út 96.",2024-01-01,100 octane petrol
+Mobil Petrol,594.9,"Alsópáhok, Hévizi út 14.",2024-01-01,100 octane petrol
+Sza-Oil Kft.,610.9,"Kurd, Hunyadi u. 22/a",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Keszthely, Hévizi út",2024-01-01,100 octane petrol
+Mol,608.0,"Keszthely, Tapolcai út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szekszárd, Csatári u.",2024-01-05,100 octane petrol
+Mol,608.0,"Hévíz, Hévízi út  ",2024-01-05,100 octane petrol
+Mobil Petrol,586.9,"Keszthely, Csapás út 5.",2024-01-01,100 octane petrol
+Orlen,589.0,"Keszthely, Tapolcai u.106.",2024-01-01,100 octane petrol
+Shell,633.9,"Keszthely, Csapás út 27.",2024-01-01,100 octane petrol
+Mol,608.0,"Bácsalmás, Backnang út 7.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Szekszárd, Tartsay út 8.",2024-01-01,100 octane petrol
+Mol,608.0,"Sűkösd, Dózsa György út 1.  ",2024-01-05,100 octane petrol
+Shell,633.9,"Szekszárd, Palánki u. 2.",2024-01-01,100 octane petrol
+Shell,633.9,"Körmend, Rákóczi út 124.",2024-01-01,100 octane petrol
+Mol,608.0,"Fonyód, József Attila u. (Bélatelep)  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szekszárd, Pásztor út 6.",2024-01-05,100 octane petrol
+Mol,608.0,"Körmend, Rákóczi Ferenc út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Balatonederics, 71-es Főút 069 hrsz",2024-01-05,100 octane petrol
+Omv,604.9,"Körmend, Rákóczi út 86/8 kereszteződése",2024-01-01,100 octane petrol
+Avia,585.0,"Andocs, Ady Endre u. 206/5 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Badacsonytomaj, 71.sz. föút  ",2024-01-05,100 octane petrol
+Mol,608.0,"Tolna-Mözs, Béri Balogh Ádám u. 4.",2024-01-05,100 octane petrol
+AUTÓS-PORTA Kft.,609.0,"Nagykónyi, Vásártér",2024-01-02,100 octane petrol
+Mol,658.0,"Szekszárd, M6 I. jobb oldal",2024-01-05,100 octane petrol
+Mol,658.0,"Szekszárd, M6 II. bal oldal",2024-01-05,100 octane petrol
+Shell,633.9,"Balatonboglár, Klapka u. 32.",2024-01-01,100 octane petrol
+Mol,608.0,"Tolna, Szedresi u.  ",2024-01-05,100 octane petrol
+Mol Partner+,668.1,"Dusnok, Bercsényi u. 50. (51. sz. főút)",2024-01-05,100 octane petrol
+Omv,604.9,"Balatonlelle, 7.sz. főút 138. km",2024-01-01,100 octane petrol
+Mol,658.0,"Balatonlelle, M7 II. (bejövő)",2024-01-05,100 octane petrol
+Mol,658.0,"Balatonlelle, M7 I. (kimenő)",2024-01-05,100 octane petrol
+Mol,608.0,"Vasvár, Dr.Tretter László u.52.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Révfűlöp, Badacsonyi út 71. számú főút",2024-01-01,100 octane petrol
+Mol,608.0,"Tapolca, Keszthelyi u.  8",2024-01-05,100 octane petrol
+Mol,608.0,"Tapolca, Kossuth út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Tapolca, Veszprémi út 5.",2024-01-01,100 octane petrol
+Mol,608.0,"Jánoshalma, Halasi út 91. (4099/3. hrsz).",2024-01-05,100 octane petrol
+Mol,608.0,"Tamási, Szabadság u. 90.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Tab, Siófoki út  3.",2024-01-05,100 octane petrol
+Alfa-Hajós Kft.,605.9,"Hajós, Kossuth u. 60.",2024-01-02,100 octane petrol
+Mol,608.0,"Sűmeg, Alkotmány u.  ",2024-01-05,100 octane petrol
+Volánbusz Zrt.,608.0,"Sűmeg, Rendeki u. 200. hrsz.",2024-01-02,100 octane petrol
+Shell,633.9,"Sümeg, 84-es főút 80. km",2024-01-01,100 octane petrol
+Edo,603.9,"Ásotthalom, 3/13 hrsz.",2024-01-08,100 octane petrol
+Mol,608.0,"Balatonföldvár, Szentgyörgyi út  ",2024-01-05,100 octane petrol
+Avia,596.9,"Szombathely, Körmendi út 92.",2023-11-22,100 octane petrol
+Omv,604.9,"Szombathely, Körmendi út 92.",2024-01-01,100 octane petrol
+Omv,604.9,"Szombathely, Rumi út",2024-01-01,100 octane petrol
+Omv,604.9,"Kalocsa, Bátyai út 83.",2024-01-02,100 octane petrol
+GALÁNTAI Bt.,594.0,"Mórahalom, Szegedi út",2024-01-04,100 octane petrol
+Shell,633.9,"Szombathely, Kiskar u. 6.",2024-01-01,100 octane petrol
+Shell,633.9,"Kalocsa, Bátyai út 8-10.",2024-01-01,100 octane petrol
+Shell,633.9,"Szombathely, Dolgozók útja",2024-01-01,100 octane petrol
+Omv,604.9,"Szombathely, Csabai út 15.",2024-01-01,100 octane petrol
+Mol,608.0,"Szombathely, Márkus Emília utca 10.",2024-01-05,100 octane petrol
+Omv,639.9,"Röszke, M5 autópálya 0112/25 hrsz 172 km",2024-01-01,100 octane petrol
+Omv,639.9,"Röszke, 0112/60 hrsz. 172 km M5 Nyugat",2024-01-01,100 octane petrol
+Mol Partner+,602.0,"Nagydorog, Kossuth L. u. 122.",2024-01-07,100 octane petrol
+Grófi Major Kft.,586.0,"Györköny, Fő u. 104.",2024-01-05,100 octane petrol
+Mol,608.0,"Kalocsa, Negyvennyolcas út  52.",2024-01-05,100 octane petrol
+Mol,608.0,"Szombathely, Zanati út  56",2024-01-05,100 octane petrol
+Shell,633.9,"Szombathely, Zanati út 70.",2024-01-01,100 octane petrol
+Mol,608.0,"Szombathely, Zanati út II. 29.",2024-01-05,100 octane petrol
+Mol,608.0,"Szombathely, Viktória út 1.",2024-01-05,100 octane petrol
+Shell,633.9,"Szombathely, Kőszegi út",2024-01-01,100 octane petrol
+Mol,608.0,"Zamárdi, Endrédi út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Ságvár, 65-ös főút",2024-01-05,100 octane petrol
+Mol,608.0,"Paks, 6.sz.fkl. út bal  ",2024-01-05,100 octane petrol
+Omv,604.9,"Paks, 6. sz. főút 110 km.",2024-01-01,100 octane petrol
+Edo,603.9,"Kiskunhalas, Malom sor 4.",2024-01-08,100 octane petrol
+Mobil Petrol,654.9,"Paks, M6 ap. 107 km BAL OLDAL",2024-01-01,100 octane petrol
+Mobil Petrol,654.9,"Paks, M6 ap. 107 km JOBB OLDAL",2024-01-03,100 octane petrol
+Mol,608.0,"Balatonfüred, Széchenyi István út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Kiskunhalas, Kárpát u. 9.",2024-01-01,100 octane petrol
+Mol,608.0,"Kecel, Császártöltési u. 50.  ",2024-01-05,100 octane petrol
+Shell,633.9,"Balatonfüred, Széchenyi út 11.",2024-01-01,100 octane petrol
+Mol,608.0,"Kiskunhalas, Majsai út 18.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Siófok, Vak Bottyán u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Simontornya, Belterület 1326/3 hrsz",2024-01-05,100 octane petrol
+Smart Oil Kft.,605.9,"Siófok, Fő u. 234.",2024-01-02,100 octane petrol
+Shell,633.9,"Szeged, Szabadkai út 7.",2024-01-01,100 octane petrol
+Palotás Kft.,594.9,"Paks,  Dunakömlőd - Szabadság u. 14. 8229/2 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Devecser, Pápai út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szeged, Makai út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Szeged, Bajai út 2-4.",2024-01-01,100 octane petrol
+Mol,608.0,"Siófok, Wesselényi u. 106.",2024-01-05,100 octane petrol
+Mol,608.0,"Szeged, Kálvária sugárút 96.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Sárvár, Vágóhíd u. 1.  ",2024-01-05,100 octane petrol
+Edo,603.9,"Szeged, Szőregi út 39-41.",2024-01-08,100 octane petrol
+Shell,633.9,"Sárvár, Feketehíd út- Deák Ferenc út",2024-01-01,100 octane petrol
+Mol,658.0,"Siófok, M7 autópálya 94. km (DÉL) Sóstói pihenő II.",2024-01-05,100 octane petrol
+Mol,658.0,"Siófok, M7 autópálya 94. km (ÉSZAK) Sóstói pihenő I.",2024-01-05,100 octane petrol
+Edo,604.9,"Szeged, Dorozsmai út 100.",2024-01-08,100 octane petrol
+Mol,608.0,"Szeged, Vásárhelyi Pál u. 25444 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Szeged, Dorozsmai út 16.",2024-01-05,100 octane petrol
+Mol,608.0,"Szeged, Dorozsmai út 20.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Szeged, Dorozsmai út 1.",2024-01-01,100 octane petrol
+Shell,633.9,"Szeged, Budapesti út 8.",2024-01-01,100 octane petrol
+Auchan,599.0,"Szeged, Zápor út 4.",2024-01-03,100 octane petrol
+Mol,608.0,"Kőszeg, Petőfi Sándor tér  ",2024-01-05,100 octane petrol
+Omv,604.9,"Ajka, Petőfi u.",2024-01-01,100 octane petrol
+Omv,604.9,"Szeged, Etelka sor 13.",2024-01-01,100 octane petrol
+Mol,608.0,"Szeged, Csongrádi sugárút  87.",2024-01-05,100 octane petrol
+Mol,608.0,"Szeged, Makkosházi krt. 6.",2024-01-05,100 octane petrol
+Omv,604.9,"Szeged, Makkosházi krt. 1.",2024-01-01,100 octane petrol
+Shell,633.9,"Ajka, Fő út 66.",2024-01-01,100 octane petrol
+Mol,608.0,"Ajka, Fő út /Aranyvölgyi utca/  ",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Ajka, Fő út",2024-01-01,100 octane petrol
+Volánbusz Zrt.,608.0,"Ajka, Hársfa u. 7. ",2024-01-05,100 octane petrol
+Mol,658.0,"Szatymaz, M5 autópálya 151 km jobb oldal",2024-01-05,100 octane petrol
+Mol,608.0,"Dég, 64.sz.fkl.út  ",2024-01-05,100 octane petrol
+Mol,658.0,"Szatymaz, M5 autópálya 151 km bal oldal",2024-01-05,100 octane petrol
+Shell,633.9,"Szeged, Algyői út",2024-01-01,100 octane petrol
+Orlen,589.0,"Szeged, Algyői út",2024-01-01,100 octane petrol
+Mol,608.0,"Ajka, Bakonygyepes, 8.sz. fkl. út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Celldömölk, Ostffy tér  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Soltvadkert, Halasi út 1.",2024-01-01,100 octane petrol
+ECOIL Hungary Kft.,609.9,"Balatonalmádi, József Attila u. 18. 71-es sz. főút",2024-01-05,100 octane petrol
+Mol,608.0,"Kiskőrös, Petőfi S. u. 94.",2024-01-05,100 octane petrol
+Mol,608.0,"Algyő,  Szeged 47.sz.fkl.út ( Algyő Pf.:11 )  ",2024-01-05,100 octane petrol
+GALÁNTAI Bt.,591.0,"Kiskőrös, Dózsa György út 92.",2024-01-02,100 octane petrol
+Omv,604.9,"Kiskőrös, Dózsa György út 47.",2024-01-01,100 octane petrol
+Mobil Petrol,597.9,"Balatonvilágos, hrsz 054/256.",2024-01-01,100 octane petrol
+Omv,604.9,"Makó, Kossuth Lajos u. 5.",2024-01-01,100 octane petrol
+Omv,604.9,"Hegyfalu, 84/86-os főutak kereszteződése",2024-01-01,100 octane petrol
+Shell,633.9,"Makó, Aradi út 103.",2024-01-01,100 octane petrol
+Mol,608.0,"Kiskunmajsa, Halasi u. 99.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Balatonalmádi, Fűzfői út 5. (71-es út)  ",2024-01-05,100 octane petrol
+Mobil Petrol,580.9,"Kiskunmajsa, Béla Király utca 1.  ",2024-01-01,100 octane petrol
+Edo,599.9,"Makó, Justh Gyula utca 67.",2024-01-08,100 octane petrol
+Shell,633.9,"Herend, 8. sz. Főút",2024-01-01,100 octane petrol
+Mol,608.0,"Sárbogárd, Köztársaság út 147.  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Veszprém, Mártírok útja 15.",2024-01-01,100 octane petrol
+Orlen,589.0,"Balatonvilágos, 71 sz. főút",2024-01-01,100 octane petrol
+Mol,608.0,"Veszprém, Almádi u. 17/1",2024-01-05,100 octane petrol
+Shell,633.9,"Veszprém, Almádi u. 7/1.",2024-01-01,100 octane petrol
+Mol,608.0,"Balatonvilágos, Balatonakarattya 71.sz. föút  ",2024-01-05,100 octane petrol
+Mol,608.0,"Veszprém, Pápai út 42.",2024-01-05,100 octane petrol
+Omv,604.9,"Veszprém, Budapesti út 12.",2024-01-01,100 octane petrol
+Mol,608.0,"Sajtoskál, 84-es főút 83. km",2024-01-05,100 octane petrol
+Mol,608.0,"Veszprém, Budapesti u. 91.",2024-01-05,100 octane petrol
+Mol,608.0,"Veszprém, Budapesti u.  70.",2024-01-05,100 octane petrol
+Omv,604.9,"Balatonfűzfő, Árpád utca 1.",2024-01-01,100 octane petrol
+Omv,613.0,"Dunaföldvár, Paksi út 125/a.",2024-01-03,100 octane petrol
+Shell,633.9,"Veszprém, Külső-Kádártai út 3.",2024-01-01,100 octane petrol
+Omv,604.9,"Veszprém, Külső-Kádártai u. 2.",2024-01-01,100 octane petrol
+Omv,604.9,"Veszprém, Aradi vértanúk útja",2024-01-01,100 octane petrol
+Mol,608.0,"Bócsa, III. körzet 1.",2024-01-05,100 octane petrol
+Shell,633.9,"Dunaföldvár, Előszállási út",2024-01-01,100 octane petrol
+Mobil Petrol,597.9,"Dunaföldvár, Vak Bottyán tér 15.",2024-01-01,100 octane petrol
+Mol,608.0,"Dunaföldvár, 6-os út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Kistelek, 5. sz. fkl.út jobb oldal  ",2024-01-05,100 octane petrol
+Mol,658.0,"Fűle, M7 Autópálya 83 km (Dél) (Lepsény) II",2024-01-05,100 octane petrol
+Mol,658.0,"Fűle, M7 Autópálya 83 km (Észak)(Lepsény)",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Hódmezővásárhely, Kopáncs 47-es számú főút",2024-01-01,100 octane petrol
+Orlen,589.0,"Dunaföldvár, 6-os út 84",2024-01-01,100 octane petrol
+Mol,608.0,"Solt, Vecsei u. 52.  ",2024-01-05,100 octane petrol
+Mol Partner+,585.0,"Csanádpalota, Hrsz 0200/23",2024-01-06,100 octane petrol
+Mol,608.0,"Hajmáskér, 8-as főút 40. km",2024-01-05,100 octane petrol
+Mol,608.0,"Lövő, Kőszegi út hrsz.0179/39  ",2024-01-05,100 octane petrol
+Mol,608.0,"Pápa, Csóka fogadó",2024-01-05,100 octane petrol
+Mol,608.0,"Hódmezővásárhely, Tóalj út",2024-01-05,100 octane petrol
+Shell,633.9,"Hódmezővásárhely, Hódtó u. 17-19.",2024-01-01,100 octane petrol
+Omv,604.9,"Hódmezővásárhely, Kutasi út 17.",2024-01-01,100 octane petrol
+Mol,608.0,"Pápa, Győri út  (külterület)",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Hódmezővásárhely, Szántó Kovács János utca 151.",2024-01-01,100 octane petrol
+Mol,608.0,"Hódmezővásárhely, Szántó Kovács János út 170.",2024-01-05,100 octane petrol
+Mol,608.0,"Beled, 86.sz. fkl. út  ",2024-01-05,100 octane petrol
+Mobil Petrol,654.9,"Petőfiszállás, M5 ap. 122 km JOBB OLDAL",2024-01-01,100 octane petrol
+Mobil Petrol,654.9,"Petőfiszállás, M5 ap. 122 km BAL OLDAL",2024-01-01,100 octane petrol
+Mobil Petrol,598.9,"Dunavecse, Fő út 120. 510 számú fő út",2024-01-03,100 octane petrol
+Mol,608.0,"Zirc, Kossuth Lajos út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Várpalota, 8.sz.fkl. út I. (jobb)  ",2024-01-05,100 octane petrol
+Omv,603.9,"Mindszent, Napkelet utca 3/b",2024-01-01,100 octane petrol
+Mol,608.0,"Nagycenk, 84.sz.fkl. út  ",2024-01-05,100 octane petrol
+Omv,639.9,"Dunaújváros, Dunaújváros - nyugat, M6 autópálya 70+100 km.sz. bal",2024-01-01,100 octane petrol
+Mol,608.0,"Várpalota, Veszprémi út 160. 8-as főút",2024-01-05,100 octane petrol
+Omv,639.9,"Dunaújváros, Dunaújváros - kelet, M6 autópálya 70 kmsz jobb",2024-01-01,100 octane petrol
+Omv,604.9,"Dunaújváros, Dózsa György út",2024-01-01,100 octane petrol
+Shell,633.9,"Várpalota, Fehérvári út 17.",2024-01-01,100 octane petrol
+Mol,608.0,"Várpalota, 8.sz.fkl. út II. (bal) ",2024-01-05,100 octane petrol
+Mol,608.0,"Mezőhegyes, Kinizsi tér 1.",2024-01-05,100 octane petrol
+Omv,604.9,"Dunaújváros, Aranyvölgyi út - Magyar u.",2024-01-01,100 octane petrol
+Mol,608.0,"Szabadszállás, Petőfi Sándor út 19.  ",2024-01-05,100 octane petrol
+Omv,615.0,"Kiskunfélegyháza, X. körzet, tanya 49",2024-01-05,100 octane petrol
+Shell,633.9,"Dunaújváros, Arany János u. 1.",2024-01-01,100 octane petrol
+Shell,633.9,"Sopron, Ipar krt. 30.",2024-01-01,100 octane petrol
+Mol,608.0,"Sopron, Győri út 42.",2024-01-05,100 octane petrol
+Omv,604.9,"Sopron, Csengery u. 93.",2024-01-01,100 octane petrol
+Mol,608.0,"Sopron, Kőfaragó tér  ",2024-01-05,100 octane petrol
+Volánbusz Zrt.,605.0,"Dudar, Vasútállomás u. 7. ",2024-01-02,100 octane petrol
+Mol,609.0,"Székesfehérvár, Balatoni út",2024-01-05,100 octane petrol
+Shell,633.9,"Kiskunfélegyháza, IX. körzet 8/B.",2024-01-01,100 octane petrol
+Auchan,599.0,"Székesfehérvár, Holland fasor 2.",2024-01-03,100 octane petrol
+Mol,608.0,"Dunaújváros, 6.sz.fkl.út   67 km",2024-01-05,100 octane petrol
+Omv,604.9,"Sopron, Lackner Kristóf u. 29.",2024-01-01,100 octane petrol
+Shell,633.9,"Sopron, Lackner K. u. 60",2024-01-01,100 octane petrol
+Shell,633.9,"Kiskunfélegyháza, Szegedi út",2024-01-01,100 octane petrol
+Mol,608.0,"Székesfehérvár, Sárkeresztúri út 8.  ",2024-01-05,100 octane petrol
+Katép Tüker Kft.,599.0,"Kiskunfélegyháza, Izsáki út 22.",2024-01-01,100 octane petrol
+Omv,604.9,"Kapuvár, Petőfi major",2024-01-01,100 octane petrol
+Mol,608.0,"Kiskunfélegyháza, Csongrádi út 18/A",2024-01-05,100 octane petrol
+Mobil Petrol,585.9,"Székesfehérvár, Horvát István út",2024-01-05,100 octane petrol
+Omv,604.9,"Székesfehérvár, Balatoni út 6111 hrsz",2024-01-01,100 octane petrol
+Mol,609.0,"Kapuvár, Győri út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Székesfehérvár, Palotai út",2024-01-01,100 octane petrol
+Omv,604.9,"Székesfehérvár, Lövölde út (Budai út 39.)",2024-01-01,100 octane petrol
+Mol,608.0,"Sopron, Határátkelő I. (kimenő)  ",2024-01-05,100 octane petrol
+Pátka Petrol Kft. ,629.0,"Székesfehérvár, Seregélyesi út 118.",2024-01-02,100 octane petrol
+Szabi Kft.,604.9,"Székesfehérvár, Mártírok útja 13.",2024-01-01,100 octane petrol
+Shell,633.9,"Székesfehérvár, Olaj u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Székesfehérvár, Seregélyesi út  66.",2024-01-05,100 octane petrol
+Omv,604.9,"Székesfehérvár, Kadocsa út 86.",2024-01-01,100 octane petrol
+Omv,604.9,"Székesfehérvár, Donáth út",2024-01-01,100 octane petrol
+Omv,604.9,"Székesfehérvár, Budai út 169.",2024-01-01,100 octane petrol
+Edo,604.9,"Székkutas, Vásárhelyi út 320/3 hrsz.",2024-01-08,100 octane petrol
+Shell,633.9,"Székesfehérvár, Aszalvölgyi út 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Székesfehérvár, Szent Flórián krt. 5.",2024-01-05,100 octane petrol
+Oil!,609.0,"Székesfehérvár, Zámolyi út hrsz. 02022/6",2024-01-01,100 octane petrol
+Mol,608.0,"Sárkeresztes, 0133. (81-es főút)",2024-01-05,100 octane petrol
+Mol,608.0,"Mezőkovácsháza, Vásárhelyi út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Kunszentmiklós, Szabadság u. 30.  ",2024-01-05,100 octane petrol
+Oil!,603.0,"Tét, Győri u 1845/5 hrsz.",2024-01-01,100 octane petrol
+Shell,633.9,"Szentes, Vásárhelyi út 110",2024-01-01,100 octane petrol
+Mol,658.0,"Kecskemét, M5 autópálya jobb",2024-01-05,100 octane petrol
+Mol,658.0,"Kecskemét, M5 autópálya  bal",2024-01-05,100 octane petrol
+Sokoró Kft.,605.0,"Tét, Debrecen u. 45",2024-01-02,100 octane petrol
+Oil!,601.0,"Csorna, Soproni út 66/k",2024-01-01,100 octane petrol
+Shell,633.9,"Csorna, Soproni út 64.",2024-01-01,100 octane petrol
+Mol,608.0,"Csongrád, Szentesi út",2024-01-05,100 octane petrol
+Mol,608.0,"Szentes, Attila út 2.",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Szentes, Attila út 4. (Attila út - Ipartelepi út körf.)",2024-01-01,100 octane petrol
+Omv,603.9,"Dömsöd, Tassi út 16.",2024-01-05,100 octane petrol
+Mol,608.0,"Gárdony, Szabadság u.  9",2024-01-05,100 octane petrol
+Mol,608.0,"Adony, 6.sz. fkl. út  ",2024-01-05,100 octane petrol
+Mol,609.0,"Csorna, Soproni út  21.",2024-01-05,100 octane petrol
+Öregkút Kft.,563.0,"Kerekegyháza, Szabadság u. 23.",2023-12-15,100 octane petrol
+Omv,609.9,"Csongrád, Fő utca 65.",2024-01-01,100 octane petrol
+Omv,604.9,"Kecskemét, Dunaföldvári út 4.",2024-01-01,100 octane petrol
+Auchan,599.0,"Kecskemét, Dunaföldvári út 2.",2024-01-03,100 octane petrol
+Mol,608.0,"Kecskemét, Izsáki út 67.",2024-01-05,100 octane petrol
+Shell,633.9,"Orosháza, Vásárhelyi u. 23/a",2024-01-01,100 octane petrol
+Mol,608.0,"Kecskemét, Izsáki út 12/a",2024-01-05,100 octane petrol
+Shell,632.9,"Kecskemét, Kiskunfélegyházi út",2024-01-01,100 octane petrol
+Mol,608.0,"Kecskemét, Kiskunfélegyházi út (Szegedi út)",2024-01-05,100 octane petrol
+Mol,608.0,"Orosháza, Kettőssánc tér",2024-01-05,100 octane petrol
+Shell,632.9,"Kecskemét, Izsáki út 4",2024-01-01,100 octane petrol
+Mol,608.0,"Mór, Nemes utca (81-es út)  ",2024-01-05,100 octane petrol
+Mol,654.0,"Velence, M7. autópálya II.  dél",2024-01-05,100 octane petrol
+Mol,608.0,"Mór, Nemes u. 24.",2024-01-05,100 octane petrol
+Mol,654.0,"Velence, M7. autópálya I.  észak",2024-01-05,100 octane petrol
+Mol,608.0,"Kecskemét, Katona József tér  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Kecskemét, 44-es főút Kurucz tér",2024-01-01,100 octane petrol
+Orlen,589.0,"Orosháza, Arany J. u. 19.",2024-01-01,100 octane petrol
+Orlen,589.0,"Kecskemét, 44-es Főút 8241/9 hrsz.",2024-01-01,100 octane petrol
+Mol,608.0,"Orosháza, Elkerülő út (vásárhelyi út)",2024-01-05,100 octane petrol
+Kis Kft.,609.0,"Kecskemét, Széchenyi körút 51.",2024-01-01,100 octane petrol
+Mol,608.0,"Kecskemét, Budai u.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Kecskemét, Budai út",2024-01-01,100 octane petrol
+Shell,632.9,"Kecskemét, Bethlen krt.57-61.",2024-01-01,100 octane petrol
+Shell,632.9,"Kecskemét, Talfája 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Kecskemét, Békéscsabai út  ",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Kecskemét, Hrsz 0674/200 Repülős csomópont",2024-01-01,100 octane petrol
+Mol,608.0,"Ráckeve, Kossuth L. u.  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Enese, 85-ös főút 433/9 hrsz",2024-01-01,100 octane petrol
+Gile-Bedi Kft.,600.0,"Győrújbarát, Széchenyi körút 701. hrsz.",2024-01-04,100 octane petrol
+Mobil Petrol,596.9,"Nyúl, Kossuth Lajos út (82. sz. főút)",2024-01-01,100 octane petrol
+Mol,608.0,"Kerékteleki, Külterület 81. számú főút",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Lajosmizse, Dózsa György u. 255",2024-01-01,100 octane petrol
+Mol,608.0,"Kiskunlacháza, Hadház u. 2.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Kisbér, 81. sz. főút",2024-01-01,100 octane petrol
+Mol,608.0,"Lajosmizse, 50.sz.út jobb oldal  ",2024-01-05,100 octane petrol
+Shell,660.9,"Lajosmizse, M5, Lajosmizse kelet",2024-01-01,100 octane petrol
+Shell,660.9,"Lajosmizse, M5, Lajosmizse nyugat",2024-01-01,100 octane petrol
+Omv,604.9,"Győrújbarát, Győr",2024-01-01,100 octane petrol
+Omv,634.9,"Vál, M7, Kajászó (Váli Dél)",2024-01-01,100 octane petrol
+Omv,634.9,"Vál, M7, Kajászó (Váli Észak)",2024-01-01,100 octane petrol
+Mol,658.0,"Győrújbarát, M1 Autópálya 119. km (Arrabóna)",2024-01-05,100 octane petrol
+Mol,608.0,"Nagyszénás, Orosházi út",2024-01-05,100 octane petrol
+Shell,633.9,"Győr, Királyszéki u. 33.",2024-01-01,100 octane petrol
+Mol,658.0,"Ercsi, M6 II. (bejövő) (M6 külterület 30 km szelvény)",2024-01-05,100 octane petrol
+Mol,658.0,"Ercsi, M6 I. (kimenő) (M6 külterület 30 km szelvény)",2024-01-05,100 octane petrol
+Omv,604.9,"Győr, Pápai út 771.",2024-01-01,100 octane petrol
+Mol,608.0,"Abda, Bécsi u. 1.",2024-01-05,100 octane petrol
+Mol,609.0,"Győr, Nagy Imre u.  85.",2024-01-05,100 octane petrol
+Mol,609.0,"Győr, Szent Imre u. 55.",2024-01-05,100 octane petrol
+Mobil Petrol,583.9,"Győr, Csipkegyári utca 1",2024-01-01,100 octane petrol
+Mol Partner+,599.9,"Győr, Farkas Mátyás utca 4.",2024-01-05,100 octane petrol
+Mol Partner+,599.9,"Győr, Vasvári Pál u. 1.",2024-01-05,100 octane petrol
+Orlen,589.0,"Abda, Bécsi út 186.",2024-01-01,100 octane petrol
+Mol,608.0,"Kunszentmárton, Szentesi út",2024-01-05,100 octane petrol
+Mol,608.0,"Cserkeszőlő, Kecskeméti út",2024-01-05,100 octane petrol
+Omv,604.9,"Győr, Szent István út",2024-01-01,100 octane petrol
+Shell,633.9,"Győr, Domb u. 2-4.",2024-01-01,100 octane petrol
+Shell,633.9,"Győr, Szigethy Attila út 111.",2024-01-01,100 octane petrol
+Mol Partner+,585.0,"Dad, Hrsz. 075/6.",2024-01-02,100 octane petrol
+Mol,608.0,"Nagykőrös, Téglagyári u. 1/a",2024-01-05,100 octane petrol
+Orlen,589.0,"Oroszlány, Rákóczi Ferenc út 1/b",2024-01-01,100 octane petrol
+Avia,612.0,"Győr, Fehérvári út 75.",2024-01-05,100 octane petrol
+Omv,604.9,"Győr, Ipar út 99.",2024-01-01,100 octane petrol
+Mol,608.0,"Oroszlány, Rákóczi Ferenc út 94/a",2024-01-05,100 octane petrol
+Oil!,602.0,"Győr, Vas Gereben utca 6. ",2024-01-01,100 octane petrol
+Shell,633.9,"Győr, Tompa út 7.",2024-01-01,100 octane petrol
+Mol,609.0,"Győr, Budai út (Mártírok u.)  ",2024-01-05,100 octane petrol
+Shell,633.9,"Oroszlány, Környei u. 3-5.",2024-01-01,100 octane petrol
+Mol,608.0,"Százhalombatta, Bekötő út  ",2024-01-05,100 octane petrol
+Shell,633.9,"Százhalombatta, Damjanich u. 29.",2024-01-01,100 octane petrol
+Mol,609.0,"Győr, Nagymegyeri út",2024-01-05,100 octane petrol
+Orlen,636.0,"Tárnok, M7 autópálya 26 km ÉSZAK",2024-01-01,100 octane petrol
+Mol,608.0,"Dabas, 50.sz.fkl. út  ",2024-01-05,100 octane petrol
+Orlen,636.0,"Tárnok, M7 Autópálya 26 km DÉL",2024-01-01,100 octane petrol
+Mol,608.0,"Tiszakécske, Szolnoki u.  ",2024-01-05,100 octane petrol
+Oil!,613.5,"Dunavarsány, Nagyvarsányi utca 155.",2024-01-02,100 octane petrol
+Omv,604.9,"Nagykőrös, Ceglédi út 256.",2024-01-01,100 octane petrol
+Avia,605.0,"Győrzámoly, Külterület hrsz 061/1",2024-01-05,100 octane petrol
+Shell,633.9,"Mosonmagyaróvár, Gabonarakpart 10.",2024-01-01,100 octane petrol
+Mol,608.0,"Szigethalom, Petőfi Sándor u.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Érd, Ercsi út hrsz. 26297/2",2024-01-05,100 octane petrol
+Nagy-Kút Bt.,581.9,"Érd, Zámori út 4.",2024-01-07,100 octane petrol
+Oil!,603.0,"Bábolna, Ács út 2.",2024-01-01,100 octane petrol
+Hungaro-Petrol Kft.,609.0,"Felcsút, Fő út 220.",2024-01-08,100 octane petrol
+Shell,634.9,"Mosonmagyaróvár, Szent István király út 170.",2024-01-01,100 octane petrol
+Mol,658.0,"Mosonmagyaróvár, M1 - M15. autópálya II. (Pf.:109)  ",2024-01-05,100 octane petrol
+Mol,658.0,"Mosonmagyaróvár, M1 - M15. autópálya I. (Pf.:109/1)",2024-01-05,100 octane petrol
+Omv,604.9,"Szigetszentmiklós, Gyári út 3237 hrsz. ",2024-01-01,100 octane petrol
+Omv,602.9,"Mosonmagyaróvár, Kossuth Lajos u. 69.",2024-01-01,100 octane petrol
+Avia,597.9,"Érd, Szent László tér 6.",2023-12-30,100 octane petrol
+Mol,608.0,"Érd, Budai út II.",2024-01-05,100 octane petrol
+Mol,608.0,"Mosonmagyaróvár, Királyhidai út 51.",2024-01-05,100 octane petrol
+Mol,608.0,"Érd, Budai út I.",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Érd, Erika u. 1.",2024-01-01,100 octane petrol
+Shell,633.9,"Érd, Budafoki utca 2-4.",2024-01-01,100 octane petrol
+Omv,604.9,"Mosonmagyaróvár, 1. számú főút",2024-01-01,100 octane petrol
+Omv,604.9,"Alsónémedi, Alsónémedi 5. sz. főút",2024-01-01,100 octane petrol
+Orlen,589.0,"Érd, Budafoki út (6.sz.főút)",2024-01-01,100 octane petrol
+Omv,604.9,"Óbarok, M 1 43. km bal",2024-01-01,100 octane petrol
+Mol,608.0,"Dunaharaszti, Fő út 220. 510.-es főút",2024-01-05,100 octane petrol
+Omv,604.9,"Óbarok, M 1 43. km jobb",2024-01-01,100 octane petrol
+Oil!,609.0,"Ócsa, Kiss János út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Hegyeshalom, Fő út 1.",2024-01-05,100 octane petrol
+Avia,562.0,"Öcsöd, Bem utca 1. ",2024-01-05,100 octane petrol
+Shell,633.9,"Szigetszentmiklós, II. Rákóczi Ferenc út 12. ",2024-01-01,100 octane petrol
+ECOIL Hungary Kft.,573.9,"Érd, Harangvirág utca 1.",2024-01-05,100 octane petrol
+Omv,639.9,"Bábolna, Bábolna - Concó pihenő dél, M1 autópálya 39. kmsz bal",2024-01-01,100 octane petrol
+Omv,639.9,"Bábolna, Bábolna - Concó pihenő észak, M1 autópálya 93. kmsz",2024-01-01,100 octane petrol
+Mobil Petrol,594.9,"Békéscsaba, Gyár utca 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Szigetszentmiklós, Petőfi Sándor utca 139",2024-01-05,100 octane petrol
+Shell,633.9,"Szigetszentmiklós, Csepeli út 19.",2024-01-01,100 octane petrol
+Edo,603.9,"Szarvas, 01319/2 hrsz. (44.-es számú főút)",2024-01-08,100 octane petrol
+Shell,633.9,"Érd, Iparos út 42.",2024-01-01,100 octane petrol
+Omv,639.9,"Inárcs, M5 autópálya 82. kmsz. bal",2024-01-01,100 octane petrol
+Omv,639.9,"Inárcs, M5 autópálya 82. kmsz jobb",2024-01-01,100 octane petrol
+Mol,608.0,"Szarvas, Szabadság út 51-53.",2024-01-05,100 octane petrol
+Omv,604.9,"Tatabánya, Ságvári út - Károlyi Mihály u. 2.",2024-01-01,100 octane petrol
+Shell,633.9,"Szarvas, Csabai út 9.",2024-01-01,100 octane petrol
+Mol,608.0,"Bicske, Botond tér  ",2024-01-05,100 octane petrol
+Mol,608.0,"Békéscsaba, Bartók Béla út",2024-01-05,100 octane petrol
+Mol,608.0,"Szarvas, Békéscsabai út",2024-01-05,100 octane petrol
+Mol,608.0,"Békéscsaba, Szarvasi út",2024-01-05,100 octane petrol
+Mol,608.0,"Diósd, Balatoni út 11.",2024-01-05,100 octane petrol
+Mol,608.0,"Tatabánya, Kossuth Lajos u.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Békéscsaba, Szarvasi út 103.",2024-01-01,100 octane petrol
+Omv,604.9,"Dunaharaszti, Némedi u. sarok 51. sz. főút",2024-01-01,100 octane petrol
+Mol,608.0,"Békéscsaba, Corvin u. 31.",2024-01-05,100 octane petrol
+Omv,604.9,"Békéscsaba, Szarvasi út 16-18.",2024-01-01,100 octane petrol
+Shell,633.9,"Tatabánya, 1. főút 53. km",2024-01-01,100 octane petrol
+Shell,633.9,"Tatabánya, Köztársaság út 1",2024-01-01,100 octane petrol
+Orlen,589.0,"Tiszaföldvár, Kunszentmártoni út 1.",2024-01-01,100 octane petrol
+Omv,634.9,"Törökbálint, M0 körgyűrű 6 km",2024-01-01,100 octane petrol
+Mol,608.0,"Diósd, Tétényi u. 2. (hrsz 3666/1)",2024-01-05,100 octane petrol
+Mol,608.0,"Békéscsaba, Sportcsarnok",2024-01-05,100 octane petrol
+Shell,660.9,"Szigetszentmiklós, M0 Szigetszentmiklós",2024-01-01,100 octane petrol
+Shell,633.9,"Békéscsaba, Berényi út 121.",2024-01-01,100 octane petrol
+Orlen,589.0,"Csém, 13-as főút",2024-01-01,100 octane petrol
+Orlen,589.0,"Békéscsaba, Gyulai út 84.",2024-01-01,100 octane petrol
+Mol,608.0,"Cegléd, Nagykőrösi út  441. sz. fkl. Út",2024-01-05,100 octane petrol
+Auchan,599.0,"Törökbálint, Torbágy u. 1.",2024-01-03,100 octane petrol
+Mol,608.0,"Tatabánya, Győri út  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Tatabánya, Győri út 11006 hrsz",2024-01-01,100 octane petrol
+Patányi-Szállítás Kft,605.0,"Tata, Takács utca 1. ",2024-01-01,100 octane petrol
+Shell,660.9,"Tata, Remeteségpuszta dél M1",2024-01-01,100 octane petrol
+Shell,633.9,"Gyula, Csabai út 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Vértesszőlős, Határ u. 1-3.",2024-01-05,100 octane petrol
+Mol,608.0,"Gyula, Csabai út 30.",2024-01-05,100 octane petrol
+Shell,660.9,"Tata, Remeteségpuszta észak M1",2024-01-01,100 octane petrol
+Herceg Benzinkút Kft.,576.0,"Herceghalom, Jókai Mór u 2/A",2024-01-07,100 octane petrol
+Shell,633.9,"Budapest XXIII, Haraszti út 38./b",2024-01-01,100 octane petrol
+Shell,660.9,"Tata, Ring u. 1. (M1 autópálya lehajtó)",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XXII, Nagytétényi út 27.",2024-01-01,100 octane petrol
+Auchan,599.0,"Budapest XXI, Rákóczi Ferenc út 277.  Szigetszentmiklós",2024-01-03,100 octane petrol
+Mol,608.0,"Gyula, Temesvári út 3469/2 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XXIII, Ócsai u.kimenő (XXIII.) 7.",2024-01-05,100 octane petrol
+Omv,608.0,"Biatorbágy, Kossuth Lajos u. 1/a.",2024-01-05,100 octane petrol
+Shell,633.9,"Törökbálint, Park u. 1.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XXIII, Haraszti út 32/A",2024-01-01,100 octane petrol
+Mobil Petrol,594.9,"Gyál, M5 Gyál-Alsónémedi lehajtó",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XXIII, Ócsai u HRSZ 197969/5",2024-01-01,100 octane petrol
+Mol,608.0,"Törökbálint, Raktárvárosi u. 3.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XXII, Nagytétényi út",2024-01-05,100 octane petrol
+Mol,608.0,"Budaörs, METRO  (Keleti utca)",2024-01-05,100 octane petrol
+Orlen,629.0,"Zsámbék, M1 autópálya (Dél)",2024-01-01,100 octane petrol
+Orlen,629.0,"Zsámbék, M1 autópálya (Észak)",2024-01-01,100 octane petrol
+Mol,608.0,"Cegléd, Pesti út 87.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XXI, II. Rákóczi Ferenc út 189.",2024-01-01,100 octane petrol
+Shell,633.9,"Tata, Május 1. út",2024-01-01,100 octane petrol
+Omv,604.9,"Tata, 1. sz. autóút 0419/8",2024-01-01,100 octane petrol
+Mol,608.0,"Tata, Vértesszőlősi út (bal oldal)  ",2024-01-05,100 octane petrol
+Mol,620.0,"Páty, 22-es km II. dél (Sasfészek-tó)",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XI, Balatoni út",2024-01-01,100 octane petrol
+Mol,620.0,"Páty, 22-es km  észak (Sasfészek-tó) Páty",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XXI, Csepel, Rákóczi Ferenc út 182.",2024-01-01,100 octane petrol
+Mol,608.0,"Budaörs, Rubik Ernő u. 3.",2024-01-05,100 octane petrol
+Mol,608.0,"Budaörs, Garibaldi u. 2.",2024-01-05,100 octane petrol
+Auchan,599.0,"Budaörs, Sport u. 2-4.",2024-01-03,100 octane petrol
+Mol,608.0,"Budaörs, Repülőtér (Kinizsi u. 4047/2 hrsz.)",2024-01-05,100 octane petrol
+Shell,633.9,"Budaörs, Kinizsi út 1-3.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XXII, Hajó út, Ártér u. 5.",2024-01-01,100 octane petrol
+Shell,633.9,"Cegléd, Malomtószél u. 13-23.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XXI, Szent István út  (XXI.)",2024-01-05,100 octane petrol
+Mol,608.0,"Martfű, Földvári út 4.",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Komárom, Igmándi út 13. sz. főút körforgalom ",2024-01-01,100 octane petrol
+Mol,608.0,"Gyál, Körösi út  ",2024-01-05,100 octane petrol
+Auchan,599.0,"Budapest XI, Hunyadi János u. 19. Savoya Park",2024-01-03,100 octane petrol
+Volántours Kft.,605.0,"Tata, Agostyáni út 78. Volán kút",2024-01-01,100 octane petrol
+ZÖLD ÚT Kft.,605.0,"Tata, Agostyáni út 78. (Zöld Út Kft.)",2024-01-01,100 octane petrol
+Omv,617.9,"Cegléd, Jászberényi u. 0825/30",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XI, Mezőkövesd út 1.",2024-01-05,100 octane petrol
+Omv,604.9,"Zsámbék, Herceghalmi út",2024-01-01,100 octane petrol
+Mol,608.0,"Rajka, Bem József u.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XXIII, Helsinki u. 108-112.",2024-01-05,100 octane petrol
+Mol,658.0,"Cegléd, M4 Dél I.",2024-01-05,100 octane petrol
+Mol,608.0,"Sarkad, Vásár tér 1-3",2024-01-05,100 octane petrol
+Orlen,589.0,"Budapest XI, Hunyadi J. út",2024-01-01,100 octane petrol
+Mol,658.0,"Cegléd, M4 II Észak",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XI, Budaörsi út 118.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XI, Péterhegyi út 66-68. ",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XXI, Kossuth L. u. 3. (XXI.) ",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XI, Péterhegyi út 54.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XXI, Védgát utca 47.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XI, Fehérvári út 166.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XI, Szeghalom u.",2024-01-05,100 octane petrol
+Mol,609.0,"Budapest XI, Hunyadi János út 2. (XI.)",2024-01-05,100 octane petrol
+Omv,604.9,"Komárom, Igmándi út 49.",2024-01-01,100 octane petrol
+MVM Mobiliti,608.0,"Budapest XI, Budaörsi út 126.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XI, Rétköz utca (XI.)",2024-01-05,100 octane petrol
+Auchan,599.0,"Budapest XXIII, Bevásárló u. 2. Soroksár",2024-01-03,100 octane petrol
+Omv,634.9,"Budapest XI, Balatoni út M1/M7 756/17 hrsz",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XI, Budafoki út 209-215.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XI, Budaörsi út 112.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest IX, Határ út - Soroksári út sarok",2024-01-01,100 octane petrol
+Mobil Petrol,596.9,"Tószeg, Várkonyi u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Monor, 4.sz. fkl. út (Katalin Csárda)  ",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XX, Ady Endre út 67.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XX, Mártírok útja 281.",2024-01-01,100 octane petrol
+Mol,658.0,"Vecsés, M0 II. (bal) - Alacskai pihenő",2024-01-05,100 octane petrol
+Mol,608.0,"Komárom, Mártírok útja 82.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XXIII, Nagykőrösi út 349.",2024-01-01,100 octane petrol
+Mol,658.0,"Vecsés, M0 I. (jobb) - Alacskai pihenő",2024-01-05,100 octane petrol
+Shell,633.9,"Budakeszi, Szőlőskert u. 1.",2024-01-01,100 octane petrol
+Shell,633.9,"Békés, Külterület 072/47. hrsz.",2024-01-01,100 octane petrol
+Shell,633.9,"Monor, Vasadi u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Budakeszi, Budaörsi u. 2749/8 hrsz.",2024-01-05,100 octane petrol
+Omv,604.9,"Vecsés, Gyáli út 20-22.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XIX, Méta u. - Zádor s.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XI, Budafoki út 111.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XXI, Weiss Manfréd út 2.",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Budapest XIX, Citroen utca 2. ",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XVIII, Alacskai út 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XI, Nagyszőlős u. 47-49. (4566/2 hrsz.)",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XI, Tétényi út 2.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest IX, Kén u. 1.",2024-01-01,100 octane petrol
+Orlen,589.0,"Budapest XI, Bartók Béla út 105.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XX, Nagykőrösi út 185",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XI, Prielle Kornélia u. (XI.)",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XIX, Nagykőrösi út (XIX.) 88.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XVIII, Méta u. Cziffra György utca",2024-01-01,100 octane petrol
+Orlen,593.0,"Budapest IX, Kvassay Jenő út 3",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest IX, Gubacsi u. 27. (IX.)",2024-01-05,100 octane petrol
+Mol,608.0,"Budakeszi, Temető út (Hrsz.: 2405)",2024-01-05,100 octane petrol
+Omv,604.9,"Üllő, Pesti út 1.",2024-01-01,100 octane petrol
+Mol,605.0,"Budapest XI, Irinyi u.45. (XI.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XI, Irinyi út 34-36.",2024-01-01,100 octane petrol
+Mol,609.0,"Budapest XIX, Puskás F. u. (XIX.)  ",2024-01-05,100 octane petrol
+Orlen,589.0,"Üllő, Pesti út (4.sz. főút)",2024-01-01,100 octane petrol
+Omv,604.9,"Békés, Kossuth L. u. 4.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XI, Budaörsi út 1. (BAH-csomópont)",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest IX, Napfény u. 26. (IX.)",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest IX, Gyáli út 38236/441",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest IX, Mester u. 89.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest VIII, Könyves Kálmán krt. 76. (Könyves/Kőbányai sarok",2024-01-01,100 octane petrol
+Mobil Petrol,585.9,"Budapest IX, Könyves Kálmán körút 3/b",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest IX, Könyves Kálmán krt. 18-20",2024-01-01,100 octane petrol
+Mol,608.0,"Vecsés, Fő út 6011/2 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XVIII, Üllői u.738. (XVIII.)",2024-01-05,100 octane petrol
+Shell,633.9,"Vecsés, 4. sz. főút",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XVIII, Üllői út 661. (XVIII.)",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest I, Mészáros u. 56/A.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest IX, Gyáli út 30.",2024-01-01,100 octane petrol
+Orlen,589.0,"Budapest IX, Gyáli út (M5), Ecseri út 9. ",2024-01-01,100 octane petrol
+Avia,598.9,"Budapest IX, Vágóhíd utca 13.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XIX, Üllői út 303.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest IX, Haller u. 56.",2024-01-01,100 octane petrol
+Mol,609.0,"Budapest XIX, Ady Endre út 22-26.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest I, Mészáros u. 19.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest I, Alkotás u. 20-24.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XIX, Üllői út 233.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XII, Istenhegyi u.55. (XII.)",2024-01-05,100 octane petrol
+Mol,608.0,"Mezőberény, Békési út",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest IX, Üllői út 137.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XVIII, Haladás utca - Ráday út sarok",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest X, Üllői út 110-112.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest VIII, Futó u.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest VIII, Baross u. 5. (Kálvin tér)",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest II, Szilágyi Erzsébet fasor 51.",2024-01-01,100 octane petrol
+Mobil Petrol,596.9,"Budapest X, Sibrik-Gyömrői sarok",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest VIII, Golgota tér (VIII.)",2024-01-05,100 octane petrol
+Orlen,589.0,"Budapest X, Gyömrői út 56-62.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest II, Szilágyi E. fasor 125.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest II, Csalogány u. 55.",2024-01-01,100 octane petrol
+Orlen,589.0,"Budapest VIII, Orczy út 46-48.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest X, Sibrik Miklós út 30.",2024-01-01,100 octane petrol
+Mol,608.0,"Abony, Radák u.  ",2024-01-05,100 octane petrol
+Mol Partner+,608.0,"Szolnok, Simon Ferenc utca 46.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest X, Könyves K. krt. 23.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest VIII, Teleki tér",2024-01-01,100 octane petrol
+MVM Mobiliti,608.0,"Budapest X, Kőbányai út 55.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest II, Tölgyfa u. 1-3.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest II, Hűvösvölgyi út 118.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest VIII, Kerepesi út 5-7.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest II, Hűvösvölgyi út 136.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest VIII, Hős u. 9. (VIII.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest VIII, Kerepesi út 22.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest X, Kőrösi Csoma Sándor út",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XIV, Kerepesi út 42-46.",2024-01-01,100 octane petrol
+Mol,608.0,"Szolnok, Tószegi út 18/A",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest X, Maglódi út - Jászberényi út sarok",2024-01-01,100 octane petrol
+Mol,608.0,"Mezőtúr, Balassi Bálint u.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XIV, Hungária krt.83-85. (XIV.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XIV, Hungária krt. 116-118.",2024-01-01,100 octane petrol
+Mol,608.0,"Gyomaendrőd, Fő út",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest VI, Dózsa György út 120.",2024-01-01,100 octane petrol
+Mol,610.0,"Budapest XIII, Váci út 19.",2024-01-05,100 octane petrol
+Orlen,589.0,"Budapest XIV, Mogyoródi út 22-32.",2024-01-01,100 octane petrol
+Omv,604.9,"Gyomaendrőd, Fő út 133/1",2024-01-01,100 octane petrol
+Metz Ferenc e.v.,590.0,"Ecser, Zrínyi u. 1.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XIV, Fogarasi út 56/A.",2024-01-01,100 octane petrol
+Oil Oázis Kft.,558.0,"Mezőtúr, Széchenyi u. 23.",2024-01-04,100 octane petrol
+Shell,633.9,"Budapest XIV, Egressy út 31-35.",2024-01-01,100 octane petrol
+Mobil Petrol,597.9,"Budapest X, Jászberényi út 53.",2024-01-01,100 octane petrol
+Shell,633.9,"Szolnok, Tószegi út 5/a.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XIV, Hungária krt. 175-177.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XIII, Népfürdő u. 14.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XIV, Vágány u. 21. (XIV.)",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest X, Kerepesi út 61.",2024-01-01,100 octane petrol
+Mol,608.0,"Gyömrő, Mendei út  ",2024-01-05,100 octane petrol
+Mol,609.0,"Budapest III, Árpád fejedelem út 103.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XIV, Róna u. 170. (XIV.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XIII, Róbert Károly krt. 64-66.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest X, Kerepesi út 73.",2024-01-01,100 octane petrol
+Auchan,599.0,"Szolnok, Felső Szandai rét 1.",2024-01-03,100 octane petrol
+Mol,608.0,"Szolnok, Abonyi út",2024-01-05,100 octane petrol
+Mol,610.0,"Budapest XIII, Pap Károly u. (XIII.)",2024-01-05,100 octane petrol
+Orlen,589.0,"Budapest XVII, Pesti út 2.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XVII, Pesti út 6.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XVII, Pesti út. 5. (XVII.)",2024-01-05,100 octane petrol
+MVM Mobiliti,608.0,"Budapest XIV, Ógyalla tér 1.",2024-01-05,100 octane petrol
+Shell,633.9,"Szolnok, Téglagyári út 30.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XVII, Pesti út 18.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XVII, Pesti út 237/c",2024-01-01,100 octane petrol
+Orlen,589.0,"Budapest XVII, Esztena u. 1.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XIII, Váci út 95.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest XIV, Füredi út 63.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest III, Bécsi út 277. A",2024-01-01,100 octane petrol
+Mol,608.0,"Szolnok, Gábor Áron tér",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XIV, Csömöri út 27/A",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XIV, Fogarasi út 183.",2024-01-01,100 octane petrol
+Omv,604.9,"Maglód, Jászberényi út",2024-01-01,100 octane petrol
+Shell,633.9,"Szolnok, Hunyadi út 2-4.",2024-01-01,100 octane petrol
+Shell,633.9,"Solymár, Rózsika u. 2.",2024-01-01,100 octane petrol
+Volánbusz Zrt.,599.0,"Szolnok, Nagysándor József út 24. ",2024-01-02,100 octane petrol
+Mol,608.0,"Budapest III, Szentendrei út 100.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XIII, Béke út 58.",2024-01-01,100 octane petrol
+Auchan,599.0,"Maglód, Eszterházy János u. 1.",2024-01-03,100 octane petrol
+Omv,604.9,"Budapest XIV, Kacsóh Pongrác út 131.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest III, Szentendrei út 59/a",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XIV, Tengerszem u. 61-67.",2024-01-01,100 octane petrol
+Mol,608.0,"Szolnok, Elkerülő út",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest III, Mozaik u. 3.",2024-01-05,100 octane petrol
+Mol,609.0,"Budapest III, Gémeskút u. 12.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XVII, Cinkotai út 30.",2024-01-05,100 octane petrol
+Omv,604.9,"Szolnok, Thököly u. (Dráva u. 42.)",2024-01-01,100 octane petrol
+Orlen,589.0,"Budapest XVI, Bökényföldi út 108.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XVII, Cinkotai út 51.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XVI, Veres Péter út 105-107.(XVI.)",2024-01-05,100 octane petrol
+Shell,633.9,"Szajol, 4.sz. főút 103 km",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XIII, Váci út 178. (XIII.)",2024-01-05,100 octane petrol
+Fire-Oil Kft.,581.9,"Szolnok, Tulipán út 1.",2024-01-05,100 octane petrol
+Omv,604.9,"Szolnok, Thököly út 91.",2024-01-01,100 octane petrol
+Mol,608.0,"Szolnok, Pozsonyi út 80.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest XVI, Arany J. u. 106. (XVI.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XV, Alkotmány út 14-20.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest IV, Pozsonyi út 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Piliscsaba, 10-es fő út 1602/13. hrsz. (24. km)",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest XIII, Váci út 196.",2024-01-01,100 octane petrol
+Orlen,579.0,"Pilisvörösvár, 10.sz.főút",2024-01-01,100 octane petrol
+Omv,604.9,"Üröm, Bécsi u. 2.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XVI, Szabadföldi út 1.",2024-01-01,100 octane petrol
+Auchan,599.0,"Solymár, Szent Flórián u. 2-4.",2024-01-03,100 octane petrol
+Hunpetrol 2018 Kft.,564.0,"Méhkerék, Külterület 0258/9",2023-12-31,100 octane petrol
+Omv,604.9,"Budapest IV, Váci út 16.",2024-01-01,100 octane petrol
+Mol,608.0,"Pilisvörösvár, 10. sz. fkl. út (Hrsz. 0140/31.)",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XVI, Szlovák út - Csömöri út sarok",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest XV, Szentmihályi út 131.",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XV, Szentmihályi út 148.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest III, Szentendrei út - Czetz J. u. sarok",2024-01-01,100 octane petrol
+Mol,609.0,"Pécel, Köztársaság tér  ",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest III, Szentendrei út 255.",2024-01-05,100 octane petrol
+Omv,604.9,"Budapest XV, Széchenyi tér 1.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest IV, Váci út 77. - Megyeri út sarok",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest IV, Váci út 84-90.",2024-01-05,100 octane petrol
+Avia,627.9,"Nagytarcsa, Naplás utca 1. ",2024-01-02,100 octane petrol
+Mol,608.0,"Budapest XVI, Szabadföldi út 81.",2024-01-05,100 octane petrol
+Mol,608.0,"Budapest IV, Fóti út 130.",2024-01-05,100 octane petrol
+Shell,633.9,"Budapest III, Batthyány út 27.",2024-01-01,100 octane petrol
+Shell,633.9,"Budapest III, Szentendrei út 373.",2024-01-01,100 octane petrol
+Omv,604.9,"Budapest III, Királyok útja 178.",2024-01-01,100 octane petrol
+Orlen,589.0,"Nyergesújfalu, Bécsi út 2",2024-01-01,100 octane petrol
+Shell,660.9,"Budapest XV, M3 12 km Észak - Szilas Pihenő",2024-01-01,100 octane petrol
+Mol,608.0,"Budapest XV, Bogáncs u. (XV.)",2024-01-05,100 octane petrol
+Shell,660.9,"Budapest XV, M3 12. km Dél - Szilas Pihenő",2024-01-01,100 octane petrol
+Auchan,599.0,"Csömör, Határ út 6.",2024-01-03,100 octane petrol
+Shell,633.9,"Sülysáp, Pesti út 56.",2024-01-01,100 octane petrol
+Shell,633.9,"Törökszentmiklós, Kossuth Lajos u. 137.",2024-01-01,100 octane petrol
+Auchan,599.0,"Fót, Fehérkő u. 1.",2024-01-03,100 octane petrol
+Auchan,599.0,"Budakalász, Omszk park 1.",2024-01-03,100 octane petrol
+Omv,604.9,"Dorog, Bécsi út -Csolnoki út sarok hrsz.0279/8",2024-01-01,100 octane petrol
+Omv,604.9,"Kistarcsa, Szabadság u. 56.",2024-01-01,100 octane petrol
+Mol,608.0,"Kerepes, Szabadság út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Dorog, Bécsi út",2024-01-05,100 octane petrol
+Auchan,599.0,"Dunakeszi, Nádas u. 6.",2024-01-03,100 octane petrol
+Mol,608.0,"Törökszentmiklós, Kossuth Lajos út 92-94.",2024-01-05,100 octane petrol
+Mol,608.0,"Isaszeg, Rákóczi u. hrsz. 455",2024-01-05,100 octane petrol
+Mol,608.0,"Pomáz, Árpád fejedelem u.",2024-01-05,100 octane petrol
+Mol,608.0,"Nagykáta, Ady Endre u.  ",2024-01-05,100 octane petrol
+Omv,604.9,"Szentendre, 11. sz. főút 17. km",2024-01-01,100 octane petrol
+Omv,604.9,"Esztergom, Kertváros, Dobogókői út - Kesztölci út sarok",2024-01-01,100 octane petrol
+Shell,633.9,"Dunakeszi, 2-es főút",2024-01-01,100 octane petrol
+Orlen,589.0,"Dunakeszi, 2 sz. fõút",2024-01-01,100 octane petrol
+Shell,633.9,"Fót, Szabadság út 10.",2024-01-01,100 octane petrol
+Mol,608.0,"Fót, Keleti Márton út",2024-01-05,100 octane petrol
+Mol,588.0,"Szentendre, Dózsa Gy. út 20.",2024-01-05,100 octane petrol
+Orlen,589.0,"Dunakeszi, Fő út 5152 hrsz.",2024-01-01,100 octane petrol
+Omv,592.9,"Túrkeve, 2412 hrsz",2024-01-05,100 octane petrol
+Hunpetrol 2018 Kft.,595.0,"Vésztő, Kossuth Lajos utca 127.",2023-12-31,100 octane petrol
+Omv,604.9,"Fót, Szabó Dezső u. 2/B.",2024-01-01,100 octane petrol
+Mol,608.0,"Dévaványa, Sport u. 5.",2024-01-05,100 octane petrol
+Mol,608.0,"Szentendre, Vasúti villasor 6.",2024-01-05,100 octane petrol
+Mol,608.0,"Túrkeve, Kisújszállási u. 54.",2024-01-05,100 octane petrol
+Mol,608.0,"Gödöllő, 3. sz. Főút Ipari Park, Pattantyús Ábrahám krt. 4.",2024-01-05,100 octane petrol
+T-Well Kft.,608.9,"Gödöllő, Repülőtéri u. 9.",2024-01-02,100 octane petrol
+Orlen,642.0,"Gödöllő, M3-as Dél",2024-01-01,100 octane petrol
+Mol,608.0,"Dunakeszi, 2-es sz. főút 21. km",2024-01-05,100 octane petrol
+Orlen,642.0,"Gödöllő, M3-as Észak",2024-01-01,100 octane petrol
+Shell,633.9,"Esztergom, Mátyás Király út 37.",2024-01-01,100 octane petrol
+Shell,633.9,"Dunakeszi, 2/A főút Kelet",2024-01-01,100 octane petrol
+Shell,633.9,"Dunakeszi, 2/A főút Nyugat",2024-01-01,100 octane petrol
+Mol,608.0,"Gödöllő, Szabadság u.12.  ",2024-01-05,100 octane petrol
+Avia,588.0,"Jászalsószentgyörgy, Béke út 1/C",2024-01-05,100 octane petrol
+Shell,633.9,"Gödöllő, Dózsa Gy. út 108.",2024-01-01,100 octane petrol
+Mol,609.0,"Gödöllő, Dózsa György út 61.",2024-01-05,100 octane petrol
+Mol,608.0,"Esztergom, Visegrádi út",2024-01-05,100 octane petrol
+Shell,633.9,"Szeghalom, Kinizsi u. 12-14.",2024-01-01,100 octane petrol
+Omv,604.9,"Veresegyház, Fő u. 2/2.",2024-01-01,100 octane petrol
+Mol,608.0,"Leányfalu, Móricz Zsigmond út 165.",2024-01-05,100 octane petrol
+Mol,608.0,"Fegyvernek, 4.sz. fkl. út",2024-01-05,100 octane petrol
+Mol,608.0,"Veresegyház, Fő u.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Szeghalom, Ady Endre út 22.",2024-01-05,100 octane petrol
+Mol,608.0,"Jászberény, Nagykátai út",2024-01-05,100 octane petrol
+Oil!,699.0,"Erdőkertes, Fő út 234.",2023-11-14,100 octane petrol
+Mol,608.0,"Visegrád, 11.sz.fkl. út",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Bag, M3 autópálya 39. km lehajtó (Ipari Park) 2191",2024-01-01,100 octane petrol
+Omv,604.9,"Bag, Dózsa György út 2.",2024-01-01,100 octane petrol
+Mol,608.0,"Nagymaros, Váci út 119.",2024-01-05,100 octane petrol
+Mol,608.0,"Kisújszállás, Deák Ferenc u. 133.",2024-01-05,100 octane petrol
+GOHÉR Kft.,608.0,"Hévízgyörk, Ady Endre út 71. ELADÓ!",2024-01-05,100 octane petrol
+Shell,633.9,"Jászberény, Szt. István krt.",2024-01-01,100 octane petrol
+Mol,608.0,"Kenderes, Petőfi út 73/A",2024-01-05,100 octane petrol
+Mol,608.0,"Aszód, Pesti út 3.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Jászberény, Szolnoki u.",2024-01-05,100 octane petrol
+Omv,604.9,"Vác, Gödöllői út 1.",2024-01-01,100 octane petrol
+Orlen,589.0,"Pusztamonostor, 32-es Főút",2024-01-01,100 octane petrol
+Mol,608.0,"Kartal, Rákóczi út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Vác, Balassagyarmati út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Komádi, Szent István út 24.",2024-01-05,100 octane petrol
+Mol,608.0,"Jászjákóhalma, Fő út 130/b (31. sz. főút)",2024-01-05,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Komádi, Nagy Sándor József utca 65. ",2023-12-31,100 octane petrol
+Mol,658.0,"Hatvan, M3 I. - Kerekharaszti pihenő - észak",2024-01-05,100 octane petrol
+Mol,658.0,"Hatvan, M3 II. - Kerekharaszti pihenő - észak",2024-01-05,100 octane petrol
+Mol,608.0,"Hatvan, Rákóczi út 101",2024-01-05,100 octane petrol
+Shell,633.9,"Hatvan, Radnóti tér 20.",2024-01-01,100 octane petrol
+Mol,608.0,"Hatvan, Csányi út (Sport u. 1.)",2024-01-05,100 octane petrol
+Shell,633.9,"Hatvan, Bibó István u. 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Hatvan, Elkerülő út",2024-01-05,100 octane petrol
+Mol,608.0,"Kunhegyes, Kossuth Lajos u. 74-78.",2024-01-05,100 octane petrol
+Mol,608.0,"Karcag, Gyarmati u.",2024-01-05,100 octane petrol
+Shell,633.9,"Karcag, Kisújszállási u. 34.",2024-01-01,100 octane petrol
+Mol,608.0,"Karcag, Madarasi út",2024-01-05,100 octane petrol
+Concordia Trans Kft.,615.0,"Tolmács, Hrsz: 0133/22 a 2-es számú főút Tolmácsi Leágazás",2024-01-04,100 octane petrol
+Orlen,589.0,"Karcag, Madarasi út 48.",2024-01-01,100 octane petrol
+Omv,604.9,"Rétság, Pusztaszántói út 1.",2024-01-01,100 octane petrol
+Mol,608.0,"Galgaguta, Kossuth u. 27.  ",2024-01-05,100 octane petrol
+Mol,608.0,"Rétság, 2.sz. fkl. út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Heves, Csáti út  ",2024-01-05,100 octane petrol
+Omv,604.9,"Nagyréde, Hrsz.: 0237/3",2024-01-01,100 octane petrol
+Mol,608.0,"Pűspökladány, Keleti sor 17.",2024-01-05,100 octane petrol
+Omv,639.9,"Karácsond, M3, Karácsond Dél",2024-01-01,100 octane petrol
+Omv,639.9,"Karácsond, M3, Karácsond Észak",2024-01-01,100 octane petrol
+Mol,608.0,"Biharkeresztes, 42. sz. fkl. út",2024-01-05,100 octane petrol
+Mol,608.0,"Berettyóújfalu, 47.sz.fkl.út",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Gyöngyös, Budapesti út 3. számú főút",2024-01-01,100 octane petrol
+Shell,631.9,"Gyöngyös, Pesti út 74",2024-01-01,100 octane petrol
+Shell,633.9,"Gyöngyös, Vásár u. 2.",2024-01-01,100 octane petrol
+Mol,608.0,"Gyöngyös, Pesti út 67.",2024-01-05,100 octane petrol
+Orlen,581.0,"Gyöngyös, 3 sz.fõút",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Földes, Bem utca 2. ",2024-01-04,100 octane petrol
+Mol,608.0,"Gyöngyös, Alkotmány út 19.",2024-01-05,100 octane petrol
+Mol,608.0,"Berettyóújfalu, 42.sz. fkl. út Földesi út 49.",2024-01-05,100 octane petrol
+Mol Partner+,587.0,"Kaba, 0513/118 hrsz. Meteorit út ",2024-01-05,100 octane petrol
+NAGISZ Zrt.,588.0,"Nádudvar, Bem József u. 5.",2024-01-03,100 octane petrol
+Mol,658.0,"Kál, Rekettyés pihenő M3 II. dél ",2024-01-05,100 octane petrol
+Mol,658.0,"Kál, Rekettyés pihenő M3. I észak ",2024-01-05,100 octane petrol
+Mol,608.0,"Pásztó, Fő út  ",2024-01-05,100 octane petrol
+Mol,608.0,"Kápolna, 3.sz. fkl. út",2024-01-05,100 octane petrol
+Mol,608.0,"Balassagyarmat, Kővári út  ",2024-01-05,100 octane petrol
+Orlen,597.0,"Poroszló, 33-as Főút",2024-01-01,100 octane petrol
+Oil!,598.0,"Tiszafüred, Igari út 0424/11 hrsz",2024-01-02,100 octane petrol
+Shell,633.9,"Tiszafüred, Húszöles út 132.",2024-01-01,100 octane petrol
+Mol,608.0,"Tiszafűred, Ady Endre út",2024-01-05,100 octane petrol
+Mol,608.0,"Fűzesabony, Maklári út",2024-01-05,100 octane petrol
+Shell,633.9,"Hajdúszoboszló, Kabai út felé",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Hajdúszoboszló, Kabai útfél 0345/112 hrsz",2023-12-31,100 octane petrol
+Mol,608.0,"Hajdúszoboszló, Debreceni út",2024-01-05,100 octane petrol
+Mol,608.0,"Szécsény, Salgótarjáni út",2024-01-05,100 octane petrol
+Omv,604.9,"Hajdúszoboszló, Hóvirág u. 2",2024-01-01,100 octane petrol
+Mol,608.0,"Parád, 24.sz. fkl. út",2024-01-05,100 octane petrol
+Mol,608.0,"Bátonyterenye, 21.sz. fkl. út",2024-01-05,100 octane petrol
+Orlen,589.0,"Mezőkövesd, Külterület 0269/4",2024-01-01,100 octane petrol
+Shell,633.9,"Mezőkövesd, Egri út 51.",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Mezőkövesd, 3/1 hrsz. Egri út",2023-12-31,100 octane petrol
+Mol,608.0,"Salgótarján, Budapesti u. 21. sz. fkl. Út 57 km",2024-01-05,100 octane petrol
+Mol,608.0,"Hosszúpályi, Földvár u. 1/a.",2024-01-05,100 octane petrol
+Orlen,589.0,"Salgótarján, Budapesti út 34.",2024-01-01,100 octane petrol
+Mol,608.0,"Eger, Mátyás király út",2024-01-05,100 octane petrol
+Omv,604.9,"Eger, Mátyás király út 134.",2024-01-01,100 octane petrol
+Orlen,589.0,"Eger, Kistályai út 18.",2024-01-01,100 octane petrol
+Mol,608.0,"Mezőkövesd, Mátyás Király út 249.",2024-01-05,100 octane petrol
+Omv,604.9,"Salgótarján, Rákóczi út 182.",2024-01-01,100 octane petrol
+Omv,604.9,"Eger, Sas út - Mátyás király u. 2.",2024-01-01,100 octane petrol
+Mol,608.0,"Eger, Kistályai út 1./a",2024-01-05,100 octane petrol
+Mol,608.0,"Salgótarján, Rákóczi út 77-89.",2024-01-05,100 octane petrol
+Mol,608.0,"Eger, Kővágó tér",2024-01-05,100 octane petrol
+Shell,633.9,"Salgótarján, Fürdő út 1",2024-01-01,100 octane petrol
+Shell,633.9,"Eger, Rákóczi út 95.",2024-01-01,100 octane petrol
+Mol,608.0,"Eger, Rákóczi út",2024-01-05,100 octane petrol
+Shell,633.9,"Eger, TESCO Áruház Rákóczi út 100.",2024-01-01,100 octane petrol
+Mol,608.0,"Pétervására, Orgona út 6.",2024-01-05,100 octane petrol
+Mol,608.0,"Debrecen, István út 147.",2024-01-05,100 octane petrol
+Shell,633.9,"Debrecen, István utca 124.",2024-01-01,100 octane petrol
+Omv,604.9,"Debrecen, István út 137.",2024-01-01,100 octane petrol
+Mol,608.0,"Debrecen, Mikepércsi út II. (bejövő)",2024-01-05,100 octane petrol
+Mol,608.0,"Debrecen, Mikepércsi út I. (kimenő)",2024-01-05,100 octane petrol
+Mol,602.0,"Debrecen, Monostorpályi út 35/A.",2024-01-05,100 octane petrol
+Mol,608.0,"Debrecen, Segner tér, Nyugati u. 6.",2024-01-05,100 octane petrol
+Auchan,599.0,"Debrecen, Kishatár u. 7.",2024-01-03,100 octane petrol
+Orlen,594.0,"Debrecen, Balmazújvárosi út",2024-01-01,100 octane petrol
+Shell,660.9,"Mezőkeresztes, M3, Gelej DÉL",2024-01-01,100 octane petrol
+Shell,633.9,"Debrecen, Böszörményi út 1.",2024-01-01,100 octane petrol
+Shell,660.9,"Mezőkeresztes, M3 Gelej, ÉSZAK",2024-01-01,100 octane petrol
+Shell,633.9,"Debrecen, Balmazújvárosi út 5.",2024-01-01,100 octane petrol
+Mol,608.0,"Debrecen, Benedek tér",2024-01-05,100 octane petrol
+Omv,604.9,"Debrecen, Füredi út 27.",2024-01-01,100 octane petrol
+Vizler-Petrol Kft.,599.0,"Debrecen, Külső Kassai út 9. ",2024-01-05,100 octane petrol
+Mol,608.0,"Debrecen, Kassai út 27.",2024-01-05,100 octane petrol
+Mol,608.0,"Debrecen, Böszörményi út",2024-01-05,100 octane petrol
+Omv,604.9,"Debrecen, Kassai út 92.",2024-01-01,100 octane petrol
+Mol,608.0,"Debrecen, Sámsoni út",2024-01-05,100 octane petrol
+Mobil Petrol,654.9,"Hajdúböszörmény, M35 autópálya 31. km szelvény JOBB oldal",2024-01-01,100 octane petrol
+Mobil Petrol,654.9,"Hajdúböszörmény, M35 autópálya 31. km szelvény BAL oldal",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Polgár, Tiszai u.7/A ",2023-12-31,100 octane petrol
+Mol,608.0,"Mezőcsát, Kossuth u.",2024-01-05,100 octane petrol
+Shell,633.9,"Hajdúböszörmény, Tessedik S. u. 2.",2024-01-01,100 octane petrol
+Mol,608.0,"Hajdúböszörmény, Debreceni út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Vámospércs, Debreceni út",2024-01-05,100 octane petrol
+Mol,658.0,"Görbeháza, M3 II dél (182,5-ös km kő, hrsz: 0437/6)",2024-01-05,100 octane petrol
+Mol,658.0,"Görbeháza, M3 I. észak (182,5-ös km kő, hrsz: 0437/8)",2024-01-05,100 octane petrol
+Mobil Petrol,594.9,"Polgár, M3 autópálya csomópont",2024-01-01,100 octane petrol
+Mol,608.0,"Polgár, Hajdú u. 16.(Munkácsy út)",2024-01-05,100 octane petrol
+Shell,633.9,"Ózd, Brassói út 3.",2024-01-01,100 octane petrol
+Omv,604.9,"Nyékládháza, Viola u. 182/1",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Tiszaújváros, 634/11 hrsz. 35-ös főút mellett",2023-12-31,100 octane petrol
+Mol,608.0,"Tiszaújváros, 35.sz.fkl. út",2024-01-05,100 octane petrol
+Shell,633.9,"Tiszaújváros, Örösi út 1/A.",2024-01-01,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Tiszaújváros, Debreceni út 2. ",2023-12-31,100 octane petrol
+Mol,608.0,"Téglás, 4.sz. fkl. út",2024-01-05,100 octane petrol
+Orlen,589.0,"Kistokaj, Pesti u. 2.",2024-01-01,100 octane petrol
+Mol,610.0,"Ózd, Vasvár út (25 -ös út)",2024-01-05,100 octane petrol
+Hunpetrol 2018 Kft.,573.0,"Ónod, Rákóczi út 2. ",2024-01-01,100 octane petrol
+Omv,604.9,"Ózd, Brassói út 5. (8631/4 hrsz.)",2024-01-01,100 octane petrol
+Shell,633.9,"Ózd, Vas köz 1-2.",2024-01-01,100 octane petrol
+Mol,608.0,"Hajdúdorog, Böszörményi út 85.",2024-01-05,100 octane petrol
+Auchan,599.0,"Miskolc, Pesti út 9.",2024-01-03,100 octane petrol
+Mol,608.0,"Miskolc, Pesti út II. (kijövő)",2024-01-05,100 octane petrol
+Mol,608.0,"Miskolc, Pesti út I.(bemenő)",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Miskolc, Futó utca 91. ",2024-01-01,100 octane petrol
+Omv,604.9,"Hajdúnánás, Dorogi út vége",2024-01-01,100 octane petrol
+Omv,604.9,"Miskolc, Kandó K.-Kiss T. sarok - Kilián ltp",2024-01-01,100 octane petrol
+Avia,608.9,"Nyíradony, Debreceni út 100.",2024-01-02,100 octane petrol
+Mol,608.0,"Hajdúnánás, Tiszavasvári út",2024-01-05,100 octane petrol
+Hunpetrol 2018 Kft.,595.9,"Miskolc, Kiss Ernő utca 35.",2023-12-31,100 octane petrol
+Mol,608.0,"Miskolc, Újgyőri főtér 3.",2024-01-05,100 octane petrol
+Omv,604.9,"Miskolc, Testvérvárosok útja 2/a.",2024-01-01,100 octane petrol
+Omv,604.9,"Miskolc, Soltész Nagy Kálmán u. 175. JOBB",2024-01-01,100 octane petrol
+Avia,608.9,"Miskolc, Miskolci út 0235/72 hrsz.",2023-12-31,100 octane petrol
+Mobil Petrol,596.9,"Miskolc, Győri kapu - Vologda u. sarok",2024-01-01,100 octane petrol
+Shell,633.9,"Miskolc, Vologda út",2024-01-01,100 octane petrol
+Omv,604.9,"Miskolc, Búza tér 16",2024-01-01,100 octane petrol
+Mol,608.0,"Miskolc, Búza tér",2024-01-05,100 octane petrol
+Mobil Petrol,596.9,"Miskolc, József Attila út 47.",2024-01-01,100 octane petrol
+Shell,633.9,"Miskolc, József Attila út 76.",2024-01-01,100 octane petrol
+Mol,608.0,"Miskolc, Boldva u. 2.",2024-01-05,100 octane petrol
+Palviscsák-Trans Kft.,585.0,"Miskolc, Sajószigeti út 2.",2024-01-04,100 octane petrol
+Auchan,599.0,"Miskolc, József Attila utca 87.",2024-01-03,100 octane petrol
+Orlen,594.0,"Miskolc, Szentpéteri kapu 78.",2024-01-01,100 octane petrol
+Shell,633.9,"Miskolc, 3. sz. főút",2024-01-01,100 octane petrol
+Shell,633.9,"Miskolc, Szentpéteri kapu 105.",2024-01-01,100 octane petrol
+Rock-Oil,587.0,"Miskolc, Besenyői utca 24.",2024-01-05,100 octane petrol
+Mol,608.0,"Felsőzsolca, 3. sz. főút hrsz. 2034/14",2024-01-05,100 octane petrol
+Mol,608.0,"Újfehértó, 4.sz. fkl. út",2024-01-05,100 octane petrol
+Mobil Petrol,654.9,"Kálmánháza, M3 ap. Kálmánháza JOBB OLDAL",2024-01-01,100 octane petrol
+Mobil Petrol,654.9,"Kálmánháza, M3 ap. Kálmánháza BAL OLDAL",2024-01-01,100 octane petrol
+Mol,608.0,"Sajószentpéter, Kossuth Lajos út",2024-01-05,100 octane petrol
+Shell,633.9,"Kazincbarcika, Jószerencsét út 16.",2024-01-01,100 octane petrol
+Shell,633.9,"Kazincbarcika, Attila u. 10/b.",2024-01-01,100 octane petrol
+Mol,608.0,"Kazincbarcika, 26. sz. főút B.C 4-es porta 3928 hrsz.",2024-01-05,100 octane petrol
+Mol,608.0,"Kazincbarcika, Mucsonyi út 1.",2024-01-05,100 octane petrol
+Mol,608.0,"Tiszalök, Táncsics Mihály u. 86.",2024-01-05,100 octane petrol
+Orlen,589.0,"Nyíregyháza, külterület 01199/2 hrsz.",2024-01-01,100 octane petrol
+Agro-Cserkesz Kft.,599.0,"Nagycserkesz, Vasvári Pál utca 102/6",2024-01-02,100 octane petrol
+Mol,608.0,"Szikszó, Vásár tér/Miskolci u.5.",2024-01-05,100 octane petrol
+Mol,608.0,"Nagykálló, Korányi Frigyes út  104.",2024-01-05,100 octane petrol
+Mol Partner+,599.0,"Nyíregyháza, Tiszavasvári út, Zomboribokor",2024-01-02,100 octane petrol
+Omv,604.9,"Nyíregyháza, Debreceni út 99.",2024-01-01,100 octane petrol
+Mol,608.0,"Edelény, 27.sz. fkl. út",2024-01-05,100 octane petrol
+Buffalo Logistic Group Kft.,607.0,"Bekecs, Honvéd utca 228.",2024-01-05,100 octane petrol
+Oplus Kft.,599.0,"Nyíregyháza, Lujza u. 9.",2024-01-02,100 octane petrol
+Omv,604.9,"Nyíregyháza, Tiszavasvári u. 39.",2024-01-01,100 octane petrol
+Omv,604.9,"Nyíregyháza, Kert u. 47.",2024-01-01,100 octane petrol
+Mol,608.0,"Nyíregyháza, Vasgyár u. 18.",2024-01-05,100 octane petrol
+Shell,633.9,"Nyíregyháza, Mező u. 28-40.",2024-01-01,100 octane petrol
+Mol,608.0,"Nyíregyháza, Széna tér",2024-01-05,100 octane petrol
+Mol,608.0,"Máriapócs, Pócsi sarok  ",2024-01-05,100 octane petrol
+Shell,633.9,"Nyíregyháza, Orosi út 22.",2024-01-01,100 octane petrol
+Mol,608.0,"Nyíregyháza, László u.",2024-01-05,100 octane petrol
+Mol,610.0,"Nyíregyháza, Tokaji út ( Repülötér )",2024-01-05,100 octane petrol
+Mol,608.0,"Nyíregyháza, Pazonyi út",2024-01-05,100 octane petrol
+Mol,608.0,"Szerencs, 37.sz. fkl. út",2024-01-05,100 octane petrol
+Mol,608.0,"Szerencs, Gyár út 38.",2024-01-05,100 octane petrol
+Shell,633.9,"Nyíregyháza, Korányi Frigyes utca 14",2024-01-01,100 octane petrol
+Shell,633.9,"Nyíregyháza, Pazonyi út 36.",2024-01-01,100 octane petrol
+Mol,608.0,"Tokaj, Tarcali út 86.",2024-01-05,100 octane petrol
+Mol,608.0,"Nyírbátor, Császári út",2024-01-05,100 octane petrol
+Orlen,589.0,"Apagy, 41-es főút/Béke út 55",2024-01-01,100 octane petrol
+Shell,633.9,"Rakamaz, Tokaji út",2024-01-01,100 octane petrol
+Oplus Kft.,599.0,"Nyírtura, Újmajori út 10. ",2024-01-02,100 octane petrol
+Avia,603.0,"Forró, Fő utca 133.",2024-01-02,100 octane petrol
+Mol,608.0,"Encs, 3.sz.fkl.út",2024-01-05,100 octane petrol
+Mol,608.0,"Baktalórántháza, 41.sz. főút 27. km",2024-01-05,100 octane petrol
+Nyir-Ktl Kft.,590.0,"Ibrány, Vár utca 2. ",2024-01-07,100 octane petrol
+ABAÚJ COOP Zrt.,609.0,"Tolcsva, 37. sz. főút tolcsvai elágazása 049. hrsz",2024-01-05,100 octane petrol
+Shell,633.9,"Mátészalka, Alkotmány út 1",2024-01-01,100 octane petrol
+Mol,608.0,"Mátészalka, Vásár tér 5.",2024-01-05,100 octane petrol
+Mol,608.0,"Csenger, Ady Endre u. 113.",2024-01-05,100 octane petrol
+Shell,633.9,"Fehérgyarmat, Mártírok útja 38.",2024-01-01,100 octane petrol
+Mol,608.0,"Sárospatak, Wesselényi Miklós út",2024-01-05,100 octane petrol
+Mol,608.0,"Fehérgyarmat, Alkotmány út 31.",2024-01-05,100 octane petrol
+ABAÚJ COOP Zrt.,609.0,"Gönc, Virágos utca 2/A",2024-01-05,100 octane petrol
+N-Trade 2005 Kft.,600.0,"Cigánd, Vasút utca 52/a",2024-01-01,100 octane petrol
+Mol,608.0,"Kisvárda, Attila út",2024-01-05,100 octane petrol
+Mol,608.0,"Vásárosnamény, Nyíregyházi út 1.",2024-01-05,100 octane petrol
+SITI-TRANS Kft.,603.0,"Kisvárda, Ipari út 3197/10 hrsz.",2024-01-02,100 octane petrol
+Mol,608.0,"Sátoraljaújhely, Várhegy utca",2024-01-05,100 octane petrol
+Shell,633.9,"Kisvárda, Csillag u. 46.",2024-01-01,100 octane petrol
+Mol,608.0,"Záhony, 4.sz. fkl. út",2024-01-05,100 octane petrol
