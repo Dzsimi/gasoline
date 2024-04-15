@@ -1,4 +1,4 @@
-# petrol
+# gasoline
 
 .github contains scraping automation, using scrape codes scrape.R and scrape.py scraping codes.
 
